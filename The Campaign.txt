@@ -1,0 +1,628 @@
+Setto Kaiba — 01/12/2024 9:35 AM
+What is Play by Post?
+
+Play by Post is a style of play where all interaction in the game is done via post (text chat).  Just as in normal D&D, the DM sets the scene and players gets to respond to this with their character’s actions. The DM might ask the player to do some checks based on their character’s skills and will resolve the actions accordingly.
+
+Players can join the game at any time, provided they have a character (in dndbeyond) of the appropriate level. Since this is text based, and we are not all as fortunate to have plenty of free time, Play by Post is a much slower way to engage with the game. When the DM sets the scene, players will be able to respond and based on those responses the scene will move forward. This might mean that your character could be dragged into a scenario due to other players responding more frequently. If a scenario directly affects a certain player, that player will have 12hours to respond to the scenario or the scene will automatically move forward. This will also apply to combat, where a character’s turn will be skipped after 12hours of inactivity. 
+
+Most Play by Post games are long campaigns that could span years due to the slow nature of the posts, however we will use a “Scene” or “Scenario” based playstyle where the DM will post a scene or a scenario and the players will get to react with until that scenario has been resolved. Players may engage with some scenarios and skip others as they choose – the only requirements will be to adjust your chosen character for that scenario. 
+
+Most play by post games die out due to players not being able to post for long periods (coz life), should life get in the way, please let the other participants know just to ensure we are all on the same page and join a later game if you like.
+To link your character to the game, we will make use of the Avrae bot which integrates dndbeyond with Discord. To make this easier for the more casual players, we will not use the full capacity of the bot, yet only use a few commands. To add your character, follow the instructions below…
+
+Once you’re done making your character, make sure it’s publicly viewable (Avrae needs to be able to see your sheet), grab the sharing URL, and follow the steps below depending on what sheet system you chose to use. You should see your character’s stats pop up in Discord!
+
+To add a character from D&D Beyond, use the following command:
+
+!import https://ddb.ac/characters/...
+D&D Beyond
+D&D Beyond Character Sheet
+The World's most intelligent Dungeons and Dragons Character Sheet.
+D&D Beyond Character Sheet
+Avrae
+BOT
+ — 01/12/2024 10:53 AM
+Loaded and saved data for Peridot! 
+Jarrod — 01/12/2024 10:53 AM
+!import www.dndbeyond.com/characters/85832777/sUnkQj
+Avrae
+BOT
+ — 01/12/2024 10:53 AM
+Peridot
+Variant Human Monk 3
+Proficiency Bonus: +2
+AC: 16
+HP: 22/22
+Initiative: +4
+STR: 12 (+1) DEX: 19 (+4) CON: 15 (+2)
+INT: 10 (+0) WIS: 15 (+2) CHA: 13 (+1)
+Save Proficiencies: Strength +3, Dexterity +6
+Skill Proficiencies: Acrobatics +6, Athletics +3, History +2, Persuasion +3, Religion +2
+Senses: passive Perception 12
+Attacks
+2-Handed Quarterstaff, +2: Attack: +8 to hit. Hit: 1d8+6 [magical bludgeoning] damage.
+Quarterstaff, +2: Attack: +8 to hit. Hit: 1d6+6 [magical bludgeoning] damage.
+Unarmed Strike: Attack: +6 to hit. Hit: 1d4+4 [bludgeoning] damage.
+Currency
+:DDBPlatinum: 0 pp
+:DDBGold: 30 gp
+:DDBElectrum: 0 ep
+:DDBSilver: 0 sp
+:DDBCopper: 0 cp
+Peridot
+Heads up!
+There's a couple of things you can do to make your experience even better!
+Connect Your D&D Beyond Account
+Visit your Account Settings page in D&D Beyond to link your D&D Beyond and Discord accounts. This lets you use all your D&D Beyond content in Avrae for free!
+You won't see this message again this week.
+Avrae
+BOT
+ — 01/12/2024 11:33 AM
+Sheet type did not match accepted formats.
+Ky — 01/12/2024 11:35 AM
+!import https://www.dndbeyond.com/characters/87078919/Nuv1uK
+D&D Beyond
+D&D Beyond Character Sheet
+The World's most intelligent Dungeons and Dragons Character Sheet.
+D&D Beyond Character Sheet
+Avrae
+BOT
+ — 01/12/2024 11:35 AM
+Loaded and saved data for Tova Truestorm! 
+Tova Truestorm
+Hill Dwarf Cleric 3
+Proficiency Bonus: +2
+AC: 18
+HP: 0/27
+Initiative: +1
+STR: 15 (+2) DEX: 12 (+1) CON: 15 (+2)
+INT: 10 (+0) WIS: 15 (+2) CHA: 8 (-1)
+Save Proficiencies: Wisdom +4, Charisma +1
+Skill Proficiencies: History +2, Insight +4, Medicine +4, Religion +2
+Senses: passive Perception 12
+Resistances: poison
+Attacks
+2-Handed Warhammer: Attack: +4 to hit. Hit: 1d10+2 [bludgeoning] damage.
+Handaxe: Attack: +4 to hit. Hit: 1d6+2 [slashing] damage.
+Unarmed Strike: Attack: +4 to hit. Hit: 3 [bludgeoning] damage.
+Warhammer: Attack: +4 to hit. Hit: 1d8+2 [bludgeoning] damage.
+Currency
+:DDBPlatinum: 0 pp
+:DDBGold: 64 gp
+:DDBElectrum: 0 ep
+:DDBSilver: 26 sp
+:DDBCopper: 100 cp
+Image
+Setto Kaiba — 01/12/2024 11:46 AM
+🐉 Scenario 1... Lv. 3 Character 👻
+
+
+The Grey Skull Forest, a small forest in the west, known for it's  vibrant fauna and flora, draws many scholars, druids and nature enthusiasts. Though in the last few years, a tribe of Goblins (the grey skull tribe) has declared this their territory, using gorilla warfare methods in attacking travelers and scholars alike. There has been a few attempts from locals to repel the Goblins, however the tribe appears to be smart, avoiding larger groups of soldiers and ambusing others. Due to it's small size, King Grodan has not seen the need to launch a full invasion, yet for the local villagers and smaller groups of travelers this remains a big threat.
+
+Having heard of this, you are making your way to Windcrest just north of the Grey Skull forest. Passing through a small part of the forest you see a cabin... the cabin is well built, made from strong stone and a good timber finish. Outside you see smoke rising from the chimney as the plesent smell of a rabbit stew draws you in.
+
+Standing outside this cabin, what do you do?
+Jarrod — 01/12/2024 11:48 AM
+Do I see any windows that we can peak through?
+Ky — 01/12/2024 12:27 PM
+Are there any foot prints leading to the cabin? And if so, can we tell if they are human/goblin?
+Setto Kaiba — 01/12/2024 12:38 PM
+Image
+The wooden door is closed, Peridot you notice 1 window on the fron side, may be more at the back... you could walk up to it and peek in. As you do you hear movement behid you, the clanking of armour.
+
+Tova, follwoing some foorprints outside, as you walk up you see... What does Peridot look like?
+Jarrod — 01/12/2024 12:59 PM
+You see a tall Human monk in blue robes with short blonde hair and a quaterstaff in his hand 
+Image
+Ky — 01/12/2024 1:33 PM
+Tova will greet Peridot... From a distance with her Warhammer at the ready... Well met good sir
+Jarrod — 01/12/2024 1:35 PM
+In shock Peridot turns around startled by the Dwarf behind him that he did not notice. "G.. Good day to you, I am Peridot"
+Ky — 01/12/2024 1:54 PM
+What Peridot will see when he looks at Tova is a small, even by Dwarf standards, stocky female dwarf with flaming red hair. Her Warhammer is almost as big as her. It looks a little unsettling in her small hands. Her face is hard set and she looks like she is suspicious of the world... Because she is.
+
+Do you live here? She will ask again. She will not offer her name at this time.
+Jarrod — 01/12/2024 2:00 PM
+Now standing tall. 
+
+Peridot responds: This is not my place no, I heard of Goblins in the area torturing the people here and I only recently came across this here cabin which I was busy trying to look for any goblins on the inside
+Ky — 01/12/2024 2:15 PM
+I too am looking for the Goblins, which has lead me here. I did not want to barge in if it was your home. I will look around the back then, shall I?
+Jarrod — 01/12/2024 2:19 PM
+Please go ahead and shout if you encounter something
+Setto Kaiba — 01/12/2024 2:32 PM
+Peridot, walking up to the front window you peek through the glass. Inside you see a well furnished dining area, and beyond that the kitchen, the walls covered with a mixture of herbs and a table with a recent kill, a partly carved boar.
+
+Warrick, walking around to the other side you see 2 windows, 1 will be located directly accross the window Peridot is looking through and the other will look to a bedroom, looking in through this window you will see a well arranged yet simplistic bedroom, bed, desk, cupboard, trunk, rug... nothing seems out of the ordinary.
+Ky — 01/12/2024 2:38 PM
+Tova will go back around to Peridot and tell him what she saw. She will also note that the place looks a bit to well arranged, to clean to belong to goblins... From what she has heard. There may be another person around
+Jarrod — 01/12/2024 2:44 PM
+Looking around through the window can anyone be seen on the inside?
+Setto Kaiba — 01/12/2024 2:50 PM
+You do not see anyone through the window... Unless someone is purposefully hiding in the house you do not get the feeling that someone is inside.
+Jarrod — 01/12/2024 3:05 PM
+I convey this, adding : It feels wrong just breaking in when no one is around
+Ky — 01/12/2024 3:19 PM
+Are there any foot steps leading away from the cabin? Or trees where Tova could maybe sit and watch but be hidden from sight?
+Setto Kaiba — 01/12/2024 3:42 PM
+If you are looking specifically for tracks, give me a Survival check. Otherwise if you are looking to see some trees, yes you can definitely find a couple of trees and bushes to hide in. To climb the tree I will need you to make an Acrobatics check and then a Stealth check or just a Stealth check if you want to hide in a bush.
+Jarrod — 01/12/2024 3:42 PM
+I shall climb into a tree and hide
+so how would I roll for acrobatics?
+Avrae
+BOT
+ — 01/12/2024 3:43 PM
+@Ky  :game_die:
+Result: 1d20 (12)
+Total: 12
+Ky — 01/12/2024 3:44 PM
++ 2 for survival check
+Avrae
+BOT
+ — 01/12/2024 3:44 PM
+@Jarrod  :game_die:
+Result: 1d20 (15)
+Total: 15
+Jarrod — 01/12/2024 3:44 PM
++ 6 for acrobatics
+Ky — 01/12/2024 3:45 PM
+And Tova will not attempt to climb the trees with her heavy armor. She will just try hide in a bush. I will roll stealth now
+Avrae
+BOT
+ — 01/12/2024 3:45 PM
+@Jarrod  :game_die:
+Result: 1d20 (2)
+Total: 2
+@Ky  :game_die:
+Result: 2d20 (18, 4)
+Total: 22
+Jarrod — 01/12/2024 3:45 PM
++4 for Stealth
+Ky — 01/12/2024 3:46 PM
+Stealth 4 + 1. Tova has disadvantage
+Jarrod — 01/12/2024 3:46 PM
+we are so good at this
+Setto Kaiba — 01/12/2024 3:59 PM
+Tova - With a 14 on your survival check you can definitly tell that there are human track around the cabin leading both in and out and some smaller animal tracks around. You don't see any Goblin tracks here. After looking at the tracks you look for a good dense bush and clumsily crouch down and hide between the shrubs.
+
+Peridot, as a monk, you are quite agile and used to climbing and move smoothly into a nice perched position... though you feel that your blue robes do not really blend well with the environment.
+
+How long would you like to wait there?
+Jarrod — 01/12/2024 4:02 PM
+Untill the dwarf(whos name peridot doesnt know)  gives the clear
+Ky — 01/12/2024 4:07 PM
+Tova will sit a 30 or 40 minutes, eating something and waiting to see if the house owner comes back. Maybe they know something about the goblins.
+Setto Kaiba — 01/12/2024 4:13 PM
+With Peridot sitting in the tree and Tova in the bush (eating...on her own, not sharing) you sit there for 30 or 40 min, nothing happens. Every now and then you see a rabbit  hop past or a spider crawl by, but otherwise nothing... it's all quiet.
+Jarrod — 01/12/2024 4:14 PM
+With Peridot in the tree can he have a look around at a bit of a height level to see if he can see any Goblins or humanoid creatures
+Setto Kaiba — 01/12/2024 4:24 PM
+The forest around you is quite thick and it is difficult to really see much, but give me a Perception check as you are trying to see or hear anything around you.
+Avrae
+BOT
+ — 01/12/2024 4:25 PM
+@Jarrod  :game_die:
+Result: 1d20 (5)
+Total: 5
+Jarrod — 01/12/2024 4:25 PM
++2 total 7
+Setto Kaiba — 01/12/2024 4:33 PM
+Tova's snacking and the good smells coming from the cabin makes it hard to really focus. You know however that the town of Windcrest is just about 1 hours walk away.
+Jarrod — 01/12/2024 4:37 PM
+Peridot will jump down the tree walk over to Tova and tell her the town we looking for is about an hours walk away and I could not spot anything from the tree
+I also ask if she wants to join me in travelling there as it could be safer to travel together
+Ky — 01/12/2024 4:41 PM
+Tova, getting bored sitting around will get up to follow but stop and staring longingly at the house, sniffing the air. She's very tempted to pull a goldilocks. She will fall in besides Peridot and say 'names Tova by the way... Tova Truestorm
+Jarrod — 01/12/2024 5:12 PM
+Peridot also temped by the smells of the food but refocusing welcomes Tova and at a slow and steady march not making too much noise travelling to the town we set out to go to
+Basically_A_Chicken — 01/13/2024 12:05 AM
+!import https://www.dndbeyond.com/characters/116467398/zUTGTV
+D&D Beyond
+D&D Beyond Character Sheet
+The World's most intelligent Dungeons and Dragons Character Sheet.
+D&D Beyond Character Sheet
+Avrae
+BOT
+ — 01/13/2024 12:05 AM
+Loaded and saved data for Ae'lun! 
+Ae'lun
+Air Genasi Ranger 3
+Proficiency Bonus: +2
+AC: 13
+HP: 31/31
+Initiative: +3
+STR: 10 (+0) DEX: 16 (+3) CON: 16 (+3)
+INT: 12 (+1) WIS: 13 (+1) CHA: 8 (-1)
+Save Proficiencies: Strength +2, Dexterity +5
+Skill Proficiencies: Animal Handling +3, History +3, Investigation +3, Perception +3, Persuasion +1
+Senses: passive Perception 13
+Attacks
+Unarmed Strike: Attack: +2 to hit. Hit: 1 [bludgeoning] damage.
+Currency
+:DDBPlatinum: 0 pp
+:DDBGold: 0 gp
+:DDBElectrum: 0 ep
+:DDBSilver: 0 sp
+:DDBCopper: 0 cp
+Ae'lun
+Heads up!
+There's a couple of things you can do to make your experience even better!
+Connect Your D&D Beyond Account
+Visit your Account Settings page in D&D Beyond to link your D&D Beyond and Discord accounts. This lets you use all your D&D Beyond content in Avrae for free!
+You won't see this message again this week.
+Setto Kaiba — 01/13/2024 9:37 AM
+The town of Windcrest is located at the foot of a mountain range and defended by a wooden barricade wall with 2 guard towers at the main gate. If you were to come over the mountain range you would see a town with a natural river running from the mountain range meandering through the different parts of the town, dividing the more "industrial" side from the "residential" area. At the base of the mountain is Windcrest Lake with the Town Hall built on an island in the lake.
+
+As Peridot and Tova approaches the gate, you see an Air Genasi standing outside speaking to the guards atop the tower.
+
+What does Ae'lun look like?
+Basically_A_Chicken — 01/13/2024 11:17 AM
+He's young and relatively short, dressed in simple leather armor. His long pale blue hair is tied in a top knot to keep it out of his face, one of his blue eyes is completely greyed over.
+Setto Kaiba — 01/13/2024 11:35 AM
+Looking up to the man on the tower, a young man, tall with short brown hair and a bow by his side stands and says "state your name and business!"
+Basically_A_Chicken — 01/13/2024 12:13 PM
+Ae'lun laughs nervously, The name's Ae'lun. I don't really have particular business here, quite the opposite in truth. I've been out in the wilds and have run out of both supplies and the means to procure them
+Ky — 01/13/2024 3:41 PM
+Tova will step up from behind the air Genassi and say, 'we heard this here town is having some issues with goblins. We have come to help. Where might we find more information on this situation?'
+Jarrod — 01/13/2024 3:55 PM
+Peridot will follow suit just standing next to Tova as she does the talking
+Setto Kaiba — 01/13/2024 4:42 PM
+"You've run out of supplies... what and now you think you're gonna come beg on the streets here in our town do you? We don't want no beggers... and you Dwarf and you with the blue robes, are you a priest... are you friends with this begger?
+Basically_A_Chicken — 01/13/2024 4:54 PM
+"I'm no begger! Sure I may be a bit down on my luck at the moment... Although it sounds like that's about to change. You've got a goblin problem and I've got some arrows, If you can afford them"
+Jarrod — 01/13/2024 5:18 PM
+“I am no priest, I am a monk. No one i know.” Peridot says to the guard. “However, we will take all the help we can” he says to Ae’lun
+Ky — 01/13/2024 5:23 PM
+"Sure, we can be friends... if he would like to help us slay goblins, as my travel companion has said, we will take all the help we can get"
+Setto Kaiba — 01/13/2024 5:29 PM
+"The three of you are gonna solve our goblin problem? Eric, you hear that, a priest, a dwarf and a air bender is gonna solve our goblin problem... hahahaha! It's a bit late to go see Gregory, but you can try and negotiate some rooms at the Waving Branch Inn... Open the gate" The gate opens and you can make your way in.
+Jarrod — 01/13/2024 5:31 PM
+Peridot wispers to Tova “Quite rude guards, lets get to the inn settle down for the night and go see this Gregory in the morning “ and heads in to try and find the inn
+Ky — 01/13/2024 5:34 PM
+Tova will look at the guard and say "well since your city watch doesn't seem able to keep the people safe, I guess we have to" and she will walk with Peridot and invite Ae'lun to join if he wishes
+Basically_A_Chicken — 01/13/2024 5:41 PM
+Ae'lun smiles "If you'll have a lowly 'beggar' as myseIf would be honoured to lend you my bow for the time being"
+Setto Kaiba — 01/13/2024 5:41 PM
+It's because of us that this here town is safe, I'll have you know... he shouts as you walk off.
+
+As you walk in, about 5m or so, a young boy, human, walks up to you... by his clothing you can see he is not rich, but had put some effort into his appearance, hair well maintained, little bit of a beard starting. "You look to be new in town, you looking to stay at the Inn?"
+Ky — 01/13/2024 5:45 PM
+Tova will mutter "Sure, sure" under her breathe, answering the guards shouts and then introduce herself and Peridot to Ae'lun.
+
+Yes, please show us the way. She will also ask the boy if he knows a Gregory and where we might find him.
+Basically_A_Chicken — 01/13/2024 6:03 PM
+Ae'lun tags along "thanks for the help back there, I get the feeling they weren't going to let me in"
+Setto Kaiba — 01/13/2024 6:48 PM
+Great... the Waving Branch it is then! Come right this way! Gregory is the town sheriff, head of the guard. He is usually at the Town Hall, but it is late now so he probably went home, he will be back tomorrow. Where are you all from?
+He looks around to see if there are any bags he can take etc.
+Jarrod — 01/13/2024 7:13 PM
+Peridot not saying much and being the suspicious type keeps a keen eye on the kid. But says “From the capital for myself”
+Setto Kaiba — 01/13/2024 7:22 PM
+You travel light for a man from the capital...must be business then... and the two of you?
+Jarrod — 01/13/2024 7:27 PM
+I check my pockets
+Ky — 01/13/2024 7:45 PM
+I'm from the mountains down South
+Basically_A_Chicken — 01/13/2024 7:55 PM
+"I'm more of the wandering type myself, you could say im from everywhere." While giving a friendly smile "are you from around these parts?"
+Setto Kaiba — 01/13/2024 9:00 PM
+Peridot, you kinda pat your pockets just to make sure nothing is missing, but everything feels like it is there, no missing items.
+
+"Ah, the mountains he says... I would love to travel there.
+
+A free spirit, yes, what an exciting life. I was born and raised here... Windcrest is my home...lived here my whole life.
+
+The Inn is just ahead, so would you like 1 large room or would you prefer seperate rooms... we have a large room for groups that's a bit cheaper and comes with a breakfast option... breakfst is the most important meal of the day" he chuckles a bit and leads you forward.
+Ky — 01/13/2024 9:02 PM
+Tova very quickly says she'd like her own room. She doesn't know these gentleman well enough to share a room
+However, she will offer to pay for the night for everyone. She's expecting a payday once the goblins have been slain
+Setto Kaiba — 01/13/2024 9:25 PM
+"Great! That is 4 silver per room so 12 silver and another 1 silver for breakfast each so 3 silver... plus 12 silver is 15 silver" in total...
+Ky — 01/13/2024 9:39 PM
+She hands it over with some extra for drinks and food for now. She will ask if anyone else wants anything
+Jarrod — 01/13/2024 9:44 PM
+Peridot will never say no to food but does vow to pay for the next one
+Basically_A_Chicken — 01/13/2024 9:45 PM
+Ae'lun rubs the back of his neck "I owe you, man its going to be good to have a bath! Wait there is a bath right?"
+Setto Kaiba — 01/13/2024 9:58 PM
+He takes the money, and puts it into his pocket and leads you to the Inn... From the outside it looks homey, welcoming and delightful. Softwood and softwooden tree trunks make up most of the building's outer structure.
+It's impossible to see through the windows, but the enjoyment from within can be felt outside. He opens the door and says "now I leave you in the capable hands of the innkeep."... He turns to Ae'lun... "yes   it is shared but yes, you can most certainly have a nice long bath." He turns and walks off.
+Jarrod — 01/13/2024 10:01 PM
+Peridot will tell Ae'lun and Tova "Please keep an eye on the kid for a sec" and walk over to the innkeep and ask them " Do you know the kid that lead us in? We paid him for your services." 
+Setto Kaiba — 01/13/2024 10:10 PM
+You walk over to the innkeep, he is a well built man, long grey hair pulled back into a  ponytail, darker skin... a serious man.
+Image
+"What kid?" At that, the kid now at the end of the building, about 30ft away darts toward the left and in between the bushes behind the inn... "If you paid him for my services, then you just got robbed"
+Basically_A_Chicken — 01/13/2024 10:23 PM
+I cast levitate on the kid
+Setto Kaiba — 01/13/2024 10:29 PM
+!spell levitate
+
+Avrae
+BOT
+ — 01/13/2024 10:29 PM
+
+Setto Kaiba
+Levitate
+2nd-level transmutation. (Artificer, Sorcerer, Wizard)
+Meta
+Casting Time: 1 action
+Range: 60 feet
+Components: V, S, M (either a small leather loop or a piece of golden wire bent into a cup shape with a long shank on one end)
+Duration: Concentration, up to 10 minutes
+Description
+One creature or loose object of your choice that you can see within range rises vertically, up to 20 feet, and remains suspended there for the duration. The spell can levitate a target that weighs up to 500 pounds. An unwilling creature that succeeds on a Constitution saving throw is unaffected.
+
+The target can move only by pushing or pulling against a fixed object or surface within reach (such as a wall or a ceiling), which allows it to move as if it were climbing. You can change the target's altitude by up to 20 feet in either direction on your turn. If you are the target, you can move up or down as part of your move. Otherwise, you can use your action to move the target, which must remain within the spell's range.
+
+When the spell ends, the target floats gently to the ground if it is still aloft.
+Spell | BR 255
+Setto Kaiba — 01/13/2024 10:30 PM
+Give me a perception check to see of you can spot the kid now running and trying to hide in the bushes.
+Basically_A_Chicken — 01/13/2024 10:33 PM
+😅How do I roll?
+Setto Kaiba — 01/13/2024 10:36 PM
+Use the command (!check perception) just without the brackets 😂 it should then do a check on perception
+Avrae
+BOT
+ — 01/13/2024 10:36 PM
+Ae'lun makes a Perception check!
+1d20 (19) + 3 = 22
+@Setto Kaiba  :game_die:
+Result: 1d20 (10) + 2
+Total: 12
+Setto Kaiba — 01/13/2024 10:42 PM
+Your 22 perception beats his 12 stealth... As he darts around the corner trying to hide amongst the shrubs growing around the inn, you follow and easily spots his bright clothing between the dull colour of the shrubs. Casting levitate, he suddenly starts to float, butt upward trying to grab the shrubs. "uh, what's happening...hey, hey, what's going on? Help! Help!
+Jarrod — 01/13/2024 10:44 PM
+While that is happening, Peridot will talk to the innkeeper "The name is Peridot, here to help with the golbin issue. How much for 3 rooms with breakfast for one night and a few drinks plus a meal for now?" 
+Basically_A_Chicken — 01/13/2024 10:47 PM
+Ae'lun casually walks up to the kid "I think I'd like a refund, unless that is you were getting those bushes ready for my bath?"
+Ky — 01/13/2024 10:53 PM
+Tova will sit laughing as the scene unfolds
+Setto Kaiba — 01/13/2024 11:26 PM
+The innkeep responds to Peridot "Here to help with the Goblins, well then I guess you will be heading out to see Gregory in the morning. As for the rooms, it's usually 15 silver... but since you are here to help I will let you stay at no charge, for 1 night"
+
+Ae'lun, walking up to the kid, him hanging in the air "uh, I was just...uh, here...here is your money" and he tries to pull out the money that now just falls out his pocket into the bushes.
+Jarrod — 01/13/2024 11:34 PM
+Peridot being of noble lineage cannot accept that and says “I thank you for the offer but please accept my payment for the rooms and food” and hands over 20 silver
+“I assume that’ll be enough for one night and a meal”
+Basically_A_Chicken — 01/13/2024 11:38 PM
+Ae'lun slowly lets the kid down "no hard feelings, you almost had me with that one, run along now"
+Setto Kaiba — 01/13/2024 11:53 PM
+The innkeep takes the 20 silver, puts 10 into his pocket and another 10 into a separate bag, hands you a set of 3 keys and says "I shall add this 10 silver to the market for those in need" You and your friends are welcome to have a drink, stuff your bellies and if a fight breaks out, just make sure to keep clear of the furniture. In the morning I shall point you to Gregory.
+
+The kid seems surprised by your kind action and runs off into town, leaving 15 silver.
+Avrae
+BOT
+ — 01/13/2024 11:55 PM
+You don't have enough of the chosen coins to complete this transaction. Auto convert from other coins? (Reply with yes/no)
+Jarrod — 01/13/2024 11:55 PM
+Yes
+Avrae
+BOT
+ — 01/13/2024 11:55 PM
+Peridot's Coinpurse
+:DDBPlatinum: 0 pp
+:DDBGold: 28 gp (-2)
+:DDBElectrum: 0 ep
+:DDBSilver: 0 sp
+:DDBCopper: 0 cp
+Total Value
+:DDBGold: 28.00 gp (-2.00)
+Image
+Jarrod — 01/13/2024 11:57 PM
+Peridot will do just that and stuff his face while invining his new companions to his table. Once they arrive he will tell him they can eat as much as they like and rooms are secured for each of us. And hands them their keys
+Ky — 01/13/2024 11:58 PM
+I assume the 15 silver left behind are what Tova originally paid? If so, she will offer the money to the bar keep to add to his 'those in need' bag. And then she will eat and drink Ale
+She will thank Peridot for paying and offer to pay the next one since she originally said she would pay
+Basically_A_Chicken — 01/14/2024 12:03 AM
+Ae'lun sits down and immediately grabs a piece of bread before thanking his companions
+Setto Kaiba — 01/14/2024 12:06 AM
+Unless there is something you would like to do before going to bed, you can all head to your rooms with a belly full of food and ale...and tomorrow perhaps you will be able to meet with Gregory.
+Setto Kaiba — 01/14/2024 10:15 AM
+The next morning you are woken up by the sounds and the smells of the inn. People are drinking, talking and outside people are setting up. Tables and shade cloths, fresh fruit and vegetables, mugs for ale and much more are put up creating a market like feel with those in need able to come and get free food and drink...overseen by the Innkeep off course. As you make your way down and out, the Innkeep greats you "all was to your liking I presume?"
+
+While you are talking to the innkeep, you can overhear a group of men standing around a wagon talking amongst themselves. One of the men, a larger fellow with fine looking robes and a long grey beard says "We almost lost our entire load, luckily we hired extra guards to protect the goods this time otherwise we would have lost it all. They only managed a few things, and we only lost 2 men" The men continue to talk amongst themselves about their travels and the goods they sell.
+Jarrod — 01/14/2024 11:14 AM
+Peridot not really paying attention to the people outside. Replies “Was a better night rest than I’ve had in a while, can i get something to eat?”
+Setto Kaiba — 01/14/2024 11:43 AM
+You see a few young boys bringing out a big pot of what appears to be a stew of some sort and they also bring some bread, and nuts and places it on the tables... "You are welcome to anything here. This is both for my patrons and the community, please help yourself. When you are ready, Podrick here will point you in the direction of the Town Hall where you can meet with Gregory. If you are looking for some general supplies you can visit the Silver Leaf (General Store) and you can speak to Yarost, our blacksmith, if you need any weapons or armour... be warned, this is a small town and weapons and armour are expensive as it is hard to come by"
+Ky — 01/14/2024 11:54 AM
+Tova will look longingly at the food but offer to help with the market first. She will chat to the people around, especially those who seem to be in need. She will offer herbs and medicine to those who seem to need it. 
+
+When she hears the group of men speaking by the wagon, she will grab a couple bowls of food and take it over to them, asking if they are ok and what happened
+Basically_A_Chicken — 01/14/2024 12:23 PM
+Ae'lun walks over to the innkeep "things around here must be pretty grim, for you to do all this. Are the goblins to blame for all of this?"
+Jarrod — 01/14/2024 6:45 PM
+Peridot will sit eat his breakfast and then head his way to the general store waiting there for Tova and Ae'lun. Will tell them he is going that way
+Setto Kaiba — 01/14/2024 8:49 PM
+"OK... are we ok...? We almost had our heads smashed in by the Goblins" one of the merchants replies. "These Goblins have been plaguing our lands for months and yet the king does nothing" he adds. 
+
+Ae'lun... The innkeep looks at the people in the que waiting to get food "most of these come from neighboring villages that were raided, these villages does not have the means to protect themselves and thus the villagers are either killed, taken hostage or driven out. They have nowhere to go and thus end up here. We are short on resources ourselves and had to ahow some of the more competent looking individuals away to other towns"
+
+Peridot, you can make your way over to the general store easily enough with a little help from the locals. There you will be met by an elderly woman, well dressed... and her son asking if they can assist with anything.
+Ky — 01/14/2024 8:54 PM
+Tova will ask, 'what can you tell me of the raid? Do you remember how many goblins there were? Do you have an idea of where they came from?'
+Setto Kaiba — 01/14/2024 9:01 PM
+"There were hundreds of them, they came from everywhere... one moment we were still getting our tents ready and the next thing we knew they were everywhere... The small ones came at us with clubs while the big ones took aome of the goods."
+Ky — 01/14/2024 9:04 PM
+Tova will thank them, offer to treat any wounds they may have and go grab a bowl of food. She's thinking they really need to speak to Gregory because this sounds like a big problem... Maybe bigger than they can handle
+Basically_A_Chicken — 01/14/2024 9:29 PM
+Ae'luns usual smile fades as he quietly looks at the people in line before thanking the innkeep and heading towards general store
+Jarrod — 01/14/2024 9:40 PM
+Peridot will go in and great the person inside and then asks for if they have any darts available
+Setto Kaiba — 01/15/2024 11:50 AM
+"You are looking for farts... Why would we have farts"... "Darts mother, darts!" the boy says to his mother. "Excuse my mother, she is partly deaf. If you are looking for darts I do have some, Yarost made these just a few days ago. I almost didn't take them coz I saw no need for them, but luckily I did. I haven't seen you around these parts before, are you going hunting?"
+Setto Kaiba — 01/15/2024 11:59 AM
+He walks over to a wooden box and takes 12 darts out of the box. "Is he looking for darts" the shopkeeper says to her son. "Yes mother, darts... not farts" he replies. "Well why didn't he just say so..." she mutters to herself. "Here we go, I have 12 darts. They sell for 5cp each, but if you take all 12 I will make them 3cp each" he says.
+Jarrod — 01/15/2024 12:38 PM
+“Here to help with the goblin issue at hand and always usefully to have a few of these around, also do you perhaps have any tiny metal balls ? And I will take all 12 darts”
+Avrae
+BOT
+ — 01/15/2024 2:14 PM
+Loaded and saved data for WildFlowerX3313's Character! 
+WildFlowerX3313's Character
+Half-Elf Rogue 3
+Proficiency Bonus: +2
+AC: 14
+HP: 24/24
+Initiative: +3
+STR: 9 (-1) DEX: 16 (+3) CON: 15 (+2)
+INT: 9 (-1) WIS: 13 (+1) CHA: 14 (+2)
+Save Proficiencies: Dexterity +5, Intelligence +1
+Skill Proficiencies: Deception +4, Insight +5 (expertise), Investigation +1, Perception +3, Persuasion +4, Sleight Of Hand +5, Stealth +5, Survival +3
+Senses: passive Perception 13
+Immunities: magical sleep
+Attacks
+Unarmed Strike: Attack: +1 to hit. Hit: 0 [bludgeoning] damage.
+Currency
+:DDBPlatinum: 0 pp
+:DDBGold: 15 gp
+:DDBElectrum: 0 ep
+:DDBSilver: 0 sp
+:DDBCopper: 0 cp
+WildFlowerX3313's Character
+Heads up!
+There's a couple of things you can do to make your experience even better!
+Connect Your D&D Beyond Account
+Visit your Account Settings page in D&D Beyond to link your D&D Beyond and Discord accounts. This lets you use all your D&D Beyond content in Avrae for free!
+You won't see this message again this week.
+WildFlower — 01/15/2024 2:25 PM
+!import https://www.dndbeyond.com/characters/116692234
+D&D Beyond
+D&D Beyond Character Sheet
+The World's most intelligent Dungeons and Dragons Character Sheet.
+D&D Beyond Character Sheet
+Avrae
+BOT
+ — 01/15/2024 2:25 PM
+Loaded and saved data for Bronwyn! 
+Warning: This will overwrite a character with the same ID. Do you wish to continue (Reply with yes/no)?
+If you only wanted to update your character, run !update instead.
+WildFlower — 01/15/2024 2:25 PM
+Yes
+Avrae
+BOT
+ — 01/15/2024 2:25 PM
+Bronwyn
+Half-Elf Rogue 3
+Proficiency Bonus: +2
+AC: 14
+HP: 24/24
+Initiative: +3
+STR: 9 (-1) DEX: 16 (+3) CON: 15 (+2)
+INT: 9 (-1) WIS: 13 (+1) CHA: 14 (+2)
+Save Proficiencies: Dexterity +5, Intelligence +1
+Skill Proficiencies: Deception +4, Insight +5 (expertise), Investigation +1, Perception +3, Persuasion +4, Sleight Of Hand +5, Stealth +5, Survival +3
+Senses: passive Perception 13
+Immunities: magical sleep
+Attacks
+Unarmed Strike: Attack: +1 to hit. Hit: 0 [bludgeoning] damage.
+Currency
+:DDBPlatinum: 0 pp
+:DDBGold: 15 gp
+:DDBElectrum: 0 ep
+:DDBSilver: 0 sp
+:DDBCopper: 0 cp
+Image
+Ky — 01/15/2024 2:37 PM
+Tova will head towards the general store as well so she can speak to her travel companions about what she has heard and so that they can go over and speak to Gregory
+Deformiter (Arden) — 01/15/2024 4:04 PM
+!import https://www.dndbeyond.com/characters/116690949
+D&D Beyond
+D&D Beyond Character Sheet
+The World's most intelligent Dungeons and Dragons Character Sheet.
+D&D Beyond Character Sheet
+Avrae
+BOT
+ — 01/15/2024 4:04 PM
+Loaded and saved data for Arden Greenwood! 
+Arden Greenwood
+Wood Elf Druid 3
+Proficiency Bonus: +2
+AC: 12
+HP: 21/21
+Initiative: +2
+STR: 10 (+0) DEX: 14 (+2) CON: 13 (+1)
+INT: 14 (+2) WIS: 16 (+3) CHA: 8 (-1)
+Save Proficiencies: Intelligence +4, Wisdom +5
+Skill Proficiencies: Animal Handling +5, Medicine +5, Nature +4, Perception +5, Survival +5
+Senses: passive Perception 15
+Immunities: magical sleep
+Attacks
+2-Handed Quarterstaff: Attack: +2 to hit. Hit: 1d8 [bludgeoning] damage.
+Quarterstaff: Attack: +2 to hit. Hit: 1d6 [bludgeoning] damage.
+Unarmed Strike: Attack: +2 to hit. Hit: 1 [bludgeoning] damage.
+Currency
+:DDBPlatinum: 0 pp
+:DDBGold: 10 gp
+:DDBElectrum: 0 ep
+:DDBSilver: 0 sp
+:DDBCopper: 0 cp
+Image
+Arden Greenwood
+Heads up!
+There's a couple of things you can do to make your experience even better!
+Connect Your D&D Beyond Account
+Visit your Account Settings page in D&D Beyond to link your D&D Beyond and Discord accounts. This lets you use all your D&D Beyond content in Avrae for free!
+Image
+You won't see this message again this week.
+Setto Kaiba — 01/15/2024 4:06 PM
+"You need golden tissues for what?" the older woman says "no mother, he is here to help with the goblins, you know the ones that had been raiding the towns."
+
+"Oh, the goblins... you know when I was young I heard a story about a tomb just beyond the forest where goblins go to sacrifice children"
+
+As she says that, Tova and Ae'lun walks into the general store followed by two more people... two elves...Please tell us what your characters look like.
+WildFlower — 01/15/2024 4:10 PM
+Bronwyn is very short and small for a half elf, she has dark hair in a braid hanging over her shoulder. She’s wearing black leathers with a mask covering her mount & nose and a hood pulled over her head. A shortsword strapped to her back.
+Image
+WildFlower — 01/15/2024 4:18 PM
+Bronwyn just lingers in the back listening to exchange happening in front of her
+Deformiter (Arden) — 01/15/2024 4:25 PM
+[Not sure if Arden is included yet, but just incase he is] Arden Greenwood is a male Wood Elf with an autumnal palette; his long, wavy hair blends the rich browns, deep reds, and oranges of fallen leaves. His vibrant green eyes mirror the fresh foliage of the forest, and his skin has the warm, earthy hue of tree bark. He wears a cloak that mimics the forest’s own cloak of leaves, suggesting a seamless unity with nature. His overall demeanor is one of tranquility and deep spiritual connection to the natural world around him.
+Image
+Setto Kaiba — 01/15/2024 4:40 PM
+Looking at Bronwyn the old lady says "are you here to rob us... we don't have much..." and then seeing Arden she says "my dear boy, leaves are for outside."
+Ky — 01/15/2024 4:42 PM
+Tova will look for Peridot and share with Peridot and Ae'lun what she has heard about the goblins.
+
+'The merchants say there are 100s of goblins. I think we should go see this Gregory and find out what he knows, but this may be a bigger problem then we can handle. We may need more fighters beside us'
+Setto Kaiba — 01/15/2024 4:53 PM
+Lokking at Peridot, the young man says "I am sorry, we don't have any balls... I do have a bag of caltrops here somewhere though, there is like 20 of them in a bag. They are a little expensive though, 1gp for a bag" he rummages through a few crates and pulls out a leather pouch.
+WildFlower — 01/15/2024 4:55 PM
+Not here to rob anyone mam, there’s no honor in stealing from people with nothing, just looking for some information on the goblins.
+Jarrod — 01/15/2024 4:56 PM
+Peridot will turn to Tova "Let me grab these few things and we can go to Gregory." Then turns to the kid "Give me a bag and all the darts" and hands over 2 gold.
+
+Hearing the request for information about the goblins "You are welcome to follow us to the town hall we are just about to go get some more info and from the sounds of it we need more hands on deck" 
+Deformiter (Arden) — 01/15/2024 5:01 PM
+Arden smiles gently at the old lady, a twinkle of understanding in his vibrant green eyes. "Fear not, I only bring nature's gifts, not its litter," he assures her, his voice a soft murmur like the rustle of leaves. Turning to Tova and the rest, he nods solemnly, "Let us convene with Gregory. United, our roots run deeper and our branches reach further. I shall offer the wisdom of the wilds to guide our hands against the goblin tide."
+WildFlower — 01/15/2024 5:03 PM
+Bronwyn nods to Peridot “lead the way”
+Setto Kaiba — 01/15/2024 5:07 PM
+The young boy takes the 2gp and hands you a few silver in return, "thank you very much, if you need anything else I will be happy to help."
+
+Does anyone need anything else while at the general store...?
+Deformiter (Arden) — 01/15/2024 5:09 PM
+Arden leans down to the boy's level, his eyes soft but earnest. "Nature's cycles are generous; they give without asking for return. Such is the wisdom of Zivara," he says, handing the boy a single acorn from his pouch. "Plant this seed as you would plant kindness, and both will grow beyond your wildest dreams." With a warm, encouraging smile, he adds, "Should you ever seek the shelter of the woods or the guidance of the stars, remember her teachings, and you'll find a path to peace."
+Jarrod — 01/15/2024 5:11 PM
+I hand back the silver and say keep it
+Setto Kaiba — 01/15/2024 5:28 PM
+The boy looking a little weirded out by arden just says "ok..." and turns to Peridot and say "are you sure... thank you!"
+
+His mother looks at Arden "uh, what's a sahara" and then as if completely forgetting that she was even in conversation just turns around and heads to the back.
+Ky — 01/15/2024 5:29 PM
+Tova doesn't think she needs anything at the moment 🤔
+Deformiter (Arden) — 01/15/2024 6:07 PM
+Arden, content in the exchange and with his thoughts turning to the task at hand, he readies himself to depart.
+Setto Kaiba — 01/15/2024 7:28 PM
+You make your way through town, past a dozen or so houses and a few buildings that seems to have closed, boarded up... a stable a warehouse and a shop of some kind.
+
+You continue on and come to a large sturdy wooden bridge with flowers growing all along the sides. The bridge leads to a island building, the Town Hall and behind it a massive tree standing tall. Just beyond this you see a waterfall, probably 1000ft tall with green moss and shrubs growing at the base. A single tree grows along the wall of the mountainside.
+
+As you enter the Town Hall and head over to the large desk that sits atop a landing following a small set of stairs you see a man. By the look on his face, he is in no mood for people. He has short black hair, dark eyes, clad in scale mail with a greatsword by his side. 
+
+As you approach the man he does not look up but says "if you are here looking for guards to protect your caravans, I have already told you I don't have enough guards as it is..." Looking up and seeing the bunch of you he says "or perhaps if you are looking for work I have caravans in need of guards..."
+Image
+Ky — 01/15/2024 7:35 PM
+Tova will stand a little back from the table so that she doesn't look so small and say 'not either of those good sir, we come looking for information about the goblins in hopes that we may help you get rid of the problem'
