@@ -2527,3 +2527,134 @@ Your party members have seen beter days... Peridot at 9, Enyawd at 12, Au'lun at
 One goblin still left, now pinned at the edge of the cliff by Tova, Enyawd and Peridot... 
 Enyawd Nightbeard — Today at 2:15 PM
 "Go for a push" 💪
+Ky — Today at 2:23 PM
+Once we are all together again, I can help with the healing 😂 but we are a bit far apart currently
+Setto Kaiba — Today at 2:25 PM
+Right where the DM wants you to be 
+Deformiter (Arden) — Today at 2:27 PM
+Arden steadies his breath, focusing intently on the battle across the chasm. Reaches for the rope and begins to navigates the precarious crossing, his eyes never leaving his allies. Moving forward around 15ft.
+[Guessing i need to roll Acrobatics for this?]
+Setto Kaiba — Today at 2:31 PM
+You going back to help?... Then yes, please give me an Acrobatics check.
+Deformiter (Arden) — Today at 2:32 PM
+Not all the way, just 15ft for now 🙂 
+Avrae
+BOT
+ — Today at 2:32 PM
+Arden Greenwood makes an Acrobatics check!
+1d20 (8) + 2 = 10
+Image
+
+Rolled in Play By Post
+Deformiter (Arden) — Today at 2:32 PM
+10? 🙂
+Setto Kaiba — Today at 2:36 PM
+Arden, trying to assist his friends back on the other side decides to traverse the rope... Having been in rat form earlier with much better grip and less weight, navigating the rope seems much trickier as a human. You shimmy out 15ft barely able to hang on... looking down your mind begins to wonder if you are gonna make it through this alive...
+Deformiter (Arden) — Today at 2:38 PM
+Reaching the 15ft point, he pauses, and summons the radiant energy of Moonbeam. With a swift chant and a guiding gesture. He will attempt to channel the energy in such a way that it lands on the other side of the chasm, hitting solely the goblin.
+do I click the Cast button in dndbeyond to get the hit check? - seems not 😄 
+Deformiter (Arden) — Today at 2:47 PM
+It has a Constititution check of 13 it seems
+Jarrod — Today at 2:57 PM
+You still need to click cast as it is a spell that uses a spell slot
+Turtlebaff420 — Today at 3:04 PM
+!update
+Avrae
+BOT
+ — Today at 3:04 PM
+Updated and saved data for Nero Ebérloch! 
+Avrae
+BOT
+ — Today at 3:34 PM
+@Setto Kaiba  :game_die:
+Result: 1d20 (11) + 1
+Total: 12
+Setto Kaiba — Today at 3:34 PM
+That's a fail for the goblin... give me a damage roll...
+!spell moonbeam
+Avrae
+BOT
+ — Today at 3:36 PM
+
+Setto Kaiba
+Moonbeam
+2nd-level evocation. (Druid, Moon Domain, Oath of the Ancients, Oath of the Watchers, Twilight Domain)
+Meta
+Casting Time: 1 action
+Range: 120 feet (5 ft. cylinder)
+Components: V, S, M (several seeds of any moonseed plant and a piece of opalescent feldspar)
+Duration: Concentration, up to 1 minute
+Description
+A silvery beam of pale light shines down in a 5-foot-radius, 40-foot-high cylinder centered on a point within range. Until the spell ends, dim light fills the cylinder.
+
+When a creature enters the spell's area for the first time on a turn or starts its turn there, it is engulfed in ghostly flames that cause searing pain, and it must make a Constitution saving throw. It takes 2d10 radiant damage on a failed save, or half as much damage on a successful one.
+
+A shapechanger makes its saving throw with disadvantage. If it fails, it also instantly reverts to its original form and can't assume a different form until it leaves the spell's light.
+
+On each of your turns after you cast this spell, you can use an action to move the beam up to 60 feet in any direction.
+At Higher Levels
+When you cast this spell using a spell slot of 3rd level or higher, the damage increases by 1d10 for each slot level above 2nd.
+Spell | BR 261
+Setto Kaiba — Today at 3:39 PM
+It only does damage once the goblin starts its turn there and not on the casting...so it would be wise for other characters to do do something to causr the goblin to move 🤔
+Avrae
+BOT
+ — Today at 3:39 PM
+Arden Greenwood casts Moonbeam!
+Meta
+Damage: 2d10 (9, 2) = 11
+Effect
+A silvery beam of pale light shines down in a 5-foot-radius, 40-foot-high cylinder centered on a point within range. Until the spell ends, dim light fills the cylinder.
+
+When a creature enters the spell's area for the first time on a turn or starts its turn there, it is engulfed in ghostly flames that cause searing pain, and it must make a Constitution saving throw. It takes 2d10 radiant damage on a failed save, or half as much damage on a successful one.
+
+A shapechanger makes its saving throw with disadvantage. If it fails, it also instantly reverts to its original form and can't assume a different form until it leaves the spell's light.
+
+On each of your turns after you cast this spell, you can use an action to move the beam up to 60 feet in any direction.
+Image
+
+Rolled in Play By Post
+Deformiter (Arden) — Today at 3:40 PM
+"or starts its turn there"
+I think if it stays there, it will take damage?
+but will have to be on its turn, you're right
+Setto Kaiba — Today at 3:41 PM
+Yes... if someone is to cause the goblin to move like shoving it or something it will maybe not start its  turn there...
+Deformiter (Arden) — Today at 3:41 PM
+If the goblin gets shoved off the cliff, I'll be happy 🙂
+just wanted to provide some support 😅
+although thought it'd be pretty badass 😛
+Setto Kaiba — Today at 3:46 PM
+As Arden, shimmies out to 15ft, dangling dangerously on the rope... having to use one hand for the somatic component (I'll be nice and not ask a saving to see if you can hold on 😂) summoning this almost holy light, searing energy that now shines on the goblin.
+
+Arden...anything else?
+Deformiter (Arden) — Today at 3:48 PM
+Yea, that's my turn 😅  thanks for the saving skip
+Setto Kaiba — Today at 3:53 PM
+Au'lun... you are up...
+Basically_A_Chicken — Today at 4:03 PM
+How far out is the closest goblin? More or less than 150ft?
+Setto Kaiba — Today at 4:10 PM
+I'd say 130ft
+Basically_A_Chicken — Today at 4:22 PM
+Okay he's too far for hunters mark so I'm going to try and shoot him from where I am
+Avrae
+BOT
+ — Today at 4:23 PM
+Ae'lun attacks with a Longbow!
+Meta
+To Hit: 1d20 (8) + 7 = 15
+Damage: Waiting for roll...
+Effect
+Proficiency with a longbow allows you to add your proficiency bonus to the attack roll for any attack you make with it.
+Image
+
+Rolled in Play By Post
+Basically_A_Chicken — Today at 4:29 PM
+"I swear I'm usually not this bad a shot!, I must just be allergic to birds or something"
+Setto Kaiba — Today at 4:42 PM
+Au'lun, you pull back on your longbow aiming to hit the goblin, you fire an arrow straight to the target, yet he uses his scimitar to deflect the arrow.
+
+Anything else you want to do?
+Basically_A_Chicken — Today at 5:17 PM
+Nope i think thats me done
