@@ -3643,3 +3643,97 @@ Turtlebaff420 — Today at 10:09 PM
 Setto Kaiba — Today at 10:11 PM
 You have no idea as to what could have caused your spell not to work as intended... maybe these vines are just protected by magic or the gods of the forest...
 Tova... what are you doing?
+Ky — Today at 10:18 PM
+Tova will cast light on her Warhammer and step closer to the vines. She wants to see if they react to the light in anyway.
+[10:19 PM]
+Are the vines actively attacking?
+
+Setto Kaiba — Today at 10:22 PM
+You grab your warhammer and after saying a few words you cast light causing it to illuminate as you bring it closer to the vines...
+
+Does your character have any specific insight on nature? Also, give me a nature check.
+[10:23 PM]
+Also... please tell me if you are currently infront...closest to the vines 
+
+Ky — Today at 10:23 PM
+Not really. Maybe a little on stone and stone work.
+
+Avrae
+BOT
+ — Today at 10:23 PM
+Tova Truestorm makes a Nature check!
+1d20 (5) = 5
+
+
+Rolled in Play By Post
+
+1
+
+Setto Kaiba — Today at 10:26 PM
+Cool... so as a dwarf with no specific knowledge of the forest or plants in partucular you cannot tell (also your roll was bad ) but you do know that all things even rock tends to live by the rules of eat or be eaten... defend when attacked...
+
+Deformiter (Arden) — Today at 10:28 PM
+Arden begins to examine the vines that have closed off the entrance to the alcove. With a gentle touch, he feels their texture and observes their growth patterns, seeking to understand their unusual behavior. Arden murmurs softly in the language of the woods, a dialogue between the druid and the flora, as he attempts to discern if these vines are simply a natural occurrence or something influenced by a more arcane presence. His connection with the forest deepens as he listens for its silent responses, hoping to unveil the mysteries these vines may hold​​.
+
+Enyawd Nightbeard — Today at 10:28 PM
+Enyawd brings the lit torch closer to the vines - does it have any affect?
+
+Ky — Today at 10:28 PM
+What I meant by react is like does it try get away from the light or shrivel up or anything. But no, Tova has no ideas about plant life 
+
+I guess she will then just hold her Warhammer ready to smash any plant fingers coming her way 
+Setto Kaiba — Today at 10:30 PM
+The responce is more to knowing whether they are attacking or not... but since it is now the vines turn... you will find out 🤣
+Turtlebaff420 — Today at 10:37 PM
+Can Nero cast acid splash out of frustration that his infernal gifts were shrugged off sick easily by mere plants
+
+Setto Kaiba — Today at 10:38 PM
+As Tova ponders the nature of the vine, Enyawd holds up his torch to see the vines reaction to the fire in his hand...
+
+With all focus on the vines in your path, you feel the ground underneath your feet shake and the wall besides you rumble as several vines, slightly thinner in appearance shoots from around you and starts to wrap themselves around you.
+
+Tova, Enyawd and Nero...please give me a strength saving throw as you are trying to break free from the vines trying to restrain you.
+
+Avrae
+BOT
+ — Today at 10:39 PM
+Tova Truestorm makes a Strength Save!
+1d20 (17) + 2 = 19
+
+
+Rolled in Play By Post
+
+1
+[10:39 PM]
+Enyawd Nightbeard makes a Strength Save!
+1d20 (18) + 2 = 20
+
+
+Rolled in Play By Post
+[10:40 PM]
+Nero Ebérloch makes a Strength Save!
+1d20 (5) - 1 = 4
+
+
+Rolled in Play By Post
+
+Turtlebaff420 — Today at 10:41 PM
+Can i roll manually....this dice is clearly rigged
+
+Setto Kaiba — Today at 10:47 PM
+As the vines shoot out of all directions trying to ensnare all those within its grasp, Tova and Enyawd using their Dwarven resilience is able to break free, pulling at the vines as they wrap around you. Nero, being an easier target for the vines is restrained by the entanglement.
+[10:47 PM]
+!condition restrained
+
+Avrae
+BOT
+ — Today at 10:47 PM
+
+Setto Kaiba
+Condition: Restrained
+You are restrained
+Description
+A restrained creature's speed becomes 0, and it can't benefit from any bonus to its speed.
+Attack rolls against the creature have advantage, and the creature's attack rolls have disadvantage.
+The creature has disadvantage on Dexterity saving throws.
+Rule | PHB 292
