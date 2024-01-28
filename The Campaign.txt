@@ -3936,3 +3936,29 @@ Could Nero try poison the vine with poison spray? @Setto Kaiba
 Then use his movement if successful to try wriggle free. The will be targeting the vines that are restraining him at their source if he can reach
 [1:25 PM]
 Con save 13 please @Setto Kaiba
+Setto Kaiba — Today at 1:38 PM
+You can use poison spray as your action but then will not be able to break free as this requires strengh to break free not movement.
+Image
+!condition restrained
+Avrae
+BOT
+ — Today at 1:38 PM
+
+Setto Kaiba
+Condition: Restrained
+You are restrained
+Description
+A restrained creature's speed becomes 0, and it can't benefit from any bonus to its speed.
+Attack rolls against the creature have advantage, and the creature's attack rolls have disadvantage.
+The creature has disadvantage on Dexterity saving throws.
+Rule | PHB 292
+Deformiter (Arden) — Today at 1:38 PM
+dndbeyond is taking me to a purchase when I look up the monster 🤣
+Setto Kaiba — Today at 1:39 PM
+Your condition makes your speed zero
+Turtlebaff420 — Today at 1:40 PM
+Hence why I said if I succeed in poisoning the vines first😅 as in if I can poison them and wither them I can wriggle myself free from the dead vines
+Setto Kaiba — Today at 1:40 PM
+😂😂 Wouldn't help all that much either... all monsters I use are customized specifically for a campaign, I rarely use them via the stats. I prefer looking at their lore and then tweaking them to better reflect that.
+Deformiter (Arden) — Today at 1:40 PM
+For sure, I was just interested 🙂 being new to D&D and all, I'm trying to gain as much info as I can 
