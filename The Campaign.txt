@@ -6586,3 +6586,215 @@ The way I intended it was to hit the corner goblin in the face area (so higher u
 Apologies dm I was informed I was incorrect an only the goblin in the corner must make a 13 dex
 Setto Kaiba — Today at 3:58 PM
 Cool... hoewever, I believe you, Au'lun and Arden are still suffering from the poison effects and thus need to attack at disadvantage...
+Setto Kaiba — Today at 4:07 PM
+For what it is worth, if the shards went off next to her she would automatically fail her dex save and the attack would (since it explodes within 5ft of her) cause her to take 2 death fails.
+Nightbeard clan — Today at 4:07 PM
+thanks for the clarity. Good to know for the future ...
+Turtlebaff420 — Today at 4:09 PM
+Still need a dex save please dm*
+Setto Kaiba — Today at 4:09 PM
+Also... when a charater is prone, attacks within 5ft of them have advantage... so it's a bad combination.
+Setto Kaiba — Today at 4:09 PM
+Still need you to roll at disadvantage since you are still poisoned.
+Turtlebaff420 — Today at 4:09 PM
+Sorry
+Avrae
+BOT
+ — Today at 4:10 PM
+Nero Ebérloch casts Ice Knife!
+Meta
+To Hit: 1d20 (15) + 5 = 20
+Damage: Waiting for roll...
+Effect
+You create a shard of ice and fling it at one creature within range. Make a ranged spell attack against the target. On a hit, the target takes 1d10 piercing damage. Hit or miss, the shard then explodes. The target and each creature within 5 feet of it must succeed on a Dexterity saving throw or take 2d6 cold damage.
+Image
+
+Rolled in Play By Post
+Setto Kaiba — Today at 4:10 PM
+Nice... another dirty 20... Well done 👏
+!roll 1d20 +4
+Avrae
+BOT
+ — Today at 4:10 PM
+@Setto Kaiba  :game_die:
+Result: 1d20 (10) + 4
+Total: 14
+Turtlebaff420 — Today at 4:11 PM
+Pity only 7 damage  stleast I didn't go down for nothing 😅
+Deformiter (Arden) — Today at 4:12 PM
+[Question: How do we revive/revitalize/stabilize Tova? Will using Medicine skill work?] 
+Setto Kaiba — Today at 4:12 PM
+Is it not 1 damage (1d10 =1) as the 2d6 doesn't apply if the goblin makes the save 🤔
+Nightbeard clan — Today at 4:13 PM
+You can do a healing touch and she'll get up with 1hp
+Turtlebaff420 — Today at 4:13 PM
+Oh sorry for some reason thought it was a fail...🤦‍♂️😔
+Jarrod — Today at 4:19 PM
+level 3 level 3 
+Setto Kaiba — Today at 4:19 PM
+Image
+Arden... you are up and then Enyawd
+Ky — Today at 4:20 PM
+Does that mean tova takes 2 failed death throws now 🤔
+Setto Kaiba — Today at 4:20 PM
+Nope... Attacking the goblin in the coner
+Deformiter (Arden) — Today at 4:25 PM
+Arden would like to move toward Tova and cast Cure Wounds (level 1) on them to "bring them back to life"
+Setto Kaiba — Today at 4:26 PM
+!spell cure wounds
+Avrae
+BOT
+ — Today at 4:26 PM
+
+Setto Kaiba
+Cure Wounds
+1st-level evocation. (Artificer, Bard, Cleric, Druid, Paladin, Ranger, Circle of Wildfire, Life Domain, The Celestial)
+Meta
+Casting Time: 1 action
+Range: Touch
+Components: V, S
+Duration: Instantaneous
+Description
+A creature you touch regains a number of hit points equal to 1d8 + your spellcasting ability modifier. This spell has no effect on undead or constructs.
+At Higher Levels
+When you cast this spell using a spell slot of 2nd level or higher, the healing increases by 1d8 for each slot level above 1st.
+Spell | BR 230
+Arden Greenwood heals with Cure Wounds!
+1d8 (8) + 3 = 11
+Image
+
+Rolled in Play By Post
+Setto Kaiba — Today at 4:27 PM
+Max... well done 👏
+Ky — Today at 4:27 PM
+Tova will stir, slowly assessing the damage she has taken and then thank Arden
+Deformiter (Arden) — Today at 4:28 PM
+Arden kneels beside Tova, placing his hands over her wounds. As he chants the incantation for Cure Wounds, a warm, green light envelops his hands, seeping deep into Tova's injuries. The light intensifies, pulsing with the life force of the forest, before gradually fading, leaving Tova's wounds significantly healed, a testament to nature's restorative power guided by Arden's will.
+Setto Kaiba — Today at 4:28 PM
+@Nightbeard clan would you mind updating the map again... your map looks better than mine 🤣
+Deformiter (Arden) — Today at 4:28 PM
+That will be the end of Arden's turn.
+Deformiter (Arden) — Today at 4:29 PM
+I was checking out Roll20 earlier to see if we could use it 😄
+specifically for the maps
+Nightbeard clan — Today at 4:29 PM
+Does Tova have to re-roll initiative, or does she just slot back into her previous place?
+Setto Kaiba — Today at 4:30 PM
+Roll20 is great and Above VTT is currently what I am mosty using due to ease of use... It is just hard as we aren't always at our computers when we play, since it's at work or in the car or whatever.
+Setto Kaiba — Today at 4:30 PM
+She will just slot in again
+Nightbeard clan — Today at 4:31 PM
+Image
+Setto Kaiba — Today at 4:31 PM
+We can even use maps on dndbeyond...
+Nightbeard clan — Today at 4:31 PM
+Enyawd moves into a flanking position, short sword and dagger in hand
+Setto Kaiba — Today at 4:32 PM
+Roll to hit
+Avrae
+BOT
+ — Today at 4:32 PM
+Enyawd Nightbeard attacks with Sneak Attack!
+Meta
+Damage: 2d6 (2, 6) = 8
+Image
+
+Rolled in Play By Post
+ 
+Enyawd Nightbeard attacks with a Shortsword!
+Meta
+To Hit: 1d20 (15) + 4 = 19
+Damage: 1d6 (1) + 2 = 3
+Effect
+Proficiency with a shortsword allows you to add your proficiency bonus to the attack roll for any attack you make with it.
+Image
+
+Rolled in Play By Post
+Nightbeard clan — Today at 4:33 PM
+That's 11? damage ... Is the goblin still standing?
+I don't even need the advantage 🤣
+Setto Kaiba — Today at 4:35 PM
+He is still standing... roll with the dagger
+Avrae
+BOT
+ — Today at 4:35 PM
+Enyawd Nightbeard attacks with a Dagger!
+Meta
+To Hit: 1d20 (6) + 4 = 10
+Damage: Waiting for roll...
+Effect
+Proficiency with a dagger allows you to add your proficiency bonus to the attack roll for any attack you make with it.
+Image
+
+Rolled in Play By Post
+ 
+Enyawd Nightbeard attacks with a Dagger!
+Meta
+To Hit: 1d20 (12) + 4 = 16
+Damage: 1d4 (1) = 1
+Effect
+Proficiency with a dagger allows you to add your proficiency bonus to the attack roll for any attack you make with it.
+Image
+
+Rolled in Play By Post
+Nightbeard clan — Today at 4:37 PM
+meh
+total of 12 damage then ... that goblin named John Wick?
+Setto Kaiba — Today at 4:40 PM
+Yes... Wick... John Wick... As Enyawd  swings with his shortsword slashing at the goblin and causing 11 points of damage and then again using the dagger in his second hand to stab at the goblin, yet having seen Enyawd using this before the goblin is prepared and is able to block the attack (didn't hit his AC)
+We are back at the top of the round with Peridot and then the goblins
+Jarrod — Today at 4:41 PM
+How the goblin surrounded looking?
+Setto Kaiba — Today at 4:42 PM
+Taken about half his hp in damage... maybe just slightly more in shape than you 🤣
+Other goblin in the coner was only hit once with the ice knife
+Jarrod — Today at 4:43 PM
+fuckit, I will run up to it and try to swing at it with my staff
+Nightbeard clan — Today at 4:43 PM
+Enyawd stands ready ... looking over to the rest of the party
+Avrae
+BOT
+ — Today at 4:43 PM
+ 
+Peridot attacks with a Quarterstaff, +2!
+Meta
+To Hit: 1d20 (15) + 8 = 23
+Damage: 1d8 (5) + 6 = 11
+Effect
+You have a +2 bonus to attack and damage rolls made with this magic weapon.
+Image
+
+Rolled in Play By Post
+Nightbeard clan — Today at 4:44 PM
+Magic rolls those!
+This goblin is nearly surrounded 🤣
+Image
+Setto Kaiba — Today at 4:47 PM
+Running up to the goblin, you make use of the momentum and swing at the goblin, cause some of his ribs to crack...anything else... he is alive, but looking like John Wick 😂
+Jarrod — Today at 4:48 PM
+flurry of blows, my last ki point
+Avrae
+BOT
+ — Today at 4:48 PM
+Peridot attacks with Flurry of Blows!
+Meta
+To Hit: 1d20 (8) + 6 = 14
+Damage: Waiting for roll...
+Image
+
+Rolled in Play By Post
+Peridot attacks with Flurry of Blows!
+Meta
+To Hit: 1d20 (6) + 6 = 12
+Damage: Waiting for roll...
+Image
+
+Rolled in Play By Post
+Deformiter (Arden) — Today at 4:49 PM
+[meta: what kinda crack these goblins been smoking, gezus]
+Jarrod — Today at 4:49 PM
+Not gonna move
+Jarrod — Today at 4:50 PM
+facts too strong for us at level 3
+Setto Kaiba — Today at 4:50 PM
+I'd give you advantage on the attacks for flanking (even though technically in grid terms it isn't) but being surrounded by 5 people feels like a legit tough time 😂
