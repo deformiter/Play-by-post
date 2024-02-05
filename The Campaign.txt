@@ -6798,3 +6798,275 @@ Jarrod — Today at 4:50 PM
 facts too strong for us at level 3
 Setto Kaiba — Today at 4:50 PM
 I'd give you advantage on the attacks for flanking (even though technically in grid terms it isn't) but being surrounded by 5 people feels like a legit tough time 😂
+Setto Kaiba — Yesterday at 9:06 PM
+Human or variant human?
+Jarrod — Yesterday at 9:07 PM
+human
+Setto Kaiba — Yesterday at 9:07 PM
+Look at variant human... might be better coz you get an extra feat.
+Also, since I enabled content sharing mid game you all might have extra options you didn't have before... if you want to see if this chnages your choice
+Jarrod — Yesterday at 9:10 PM
+there is a lot here, yeah gonna need to read through a bit
+Setto Kaiba — Yesterday at 9:11 PM
+Monday is always busy for me so I might only be back tomorrow evening 😱 gives everyone some time to look at their characters.
+If anyone has a question regarding rules or if we have to make a roll and you don't know why it is at adv or disadvantage or whatever, please ask in the group. Sometimes things go missing in the messages as we read so don't stress just ask or pm me.
+Setto Kaiba — Yesterday at 9:20 PM
+In general, how is everyone finding the concept of the play by post?
+Deformiter (Arden) — Yesterday at 9:20 PM
+Love it
+🙂
+Jarrod — Yesterday at 9:23 PM
+meet the new Peridot a wood elf monk 
+Image
+Basically_A_Chicken — Yesterday at 9:38 PM
+There are a while bunch of optional features here, how do those work?
+Setto Kaiba — Yesterday at 9:44 PM
+That was one heck of a short rest 😂
+Jarrod — Yesterday at 9:45 PM
+some wizard came along and changed my race🤣 
+Jarrod — Yesterday at 9:46 PM
+which races you looking at?
+Setto Kaiba — Yesterday at 9:47 PM
+Usually just gives you additional options such as changing stats or more spells.
+Basically_A_Chicken — Yesterday at 9:47 PM
+Its Ranger class replacement features, theres like a primal companion and things that look pretty useful It just says that its up to the DM to allow
+Setto Kaiba — Yesterday at 9:47 PM
+His name is Vordrid...😂
+Setto Kaiba — Yesterday at 9:48 PM
+Go for it
+Jarrod — Yesterday at 9:48 PM
+I went from human to wood elf the wizard Vordrid will change your race as well xD
+Basically_A_Chicken — Yesterday at 9:48 PM
+Thanks Shnuggles might be useful now!😂 
+Jarrod — Yesterday at 9:49 PM
+!update
+Avrae
+BOT
+ — Yesterday at 9:49 PM
+Updated and saved data for Peridot! 
+Setto Kaiba — Yesterday at 9:49 PM
+Yes... now the goblins have something to capture and cook... Send it to the goblin you killed's family 🫣
+Enyawd Nightbeard — Yesterday at 9:50 PM
+!update
+Avrae
+BOT
+ — Yesterday at 9:50 PM
+Updated and saved data for Enyawd Nightbeard! 
+Burger — Yesterday at 9:51 PM
+!ddb
+Avrae
+BOT
+ — Yesterday at 9:51 PM
+
+Burger
+No D&D Beyond account connected.
+It looks like you don't have your Discord account connected to your D&D Beyond account!
+Linking your account means that you'll be able to use everything you own on D&D Beyond in Avrae for free - you can link your accounts here.
+Having trouble?
+On occasion, the first time you link your Discord and D&D Beyond accounts, Discord may use a temporary account that differs from your actual account. If your accounts appear linked, but this command says they are not, compare the numbers at the end of your Discord username to the numbers displayed in the D&D Beyond Account Settings. For this account, burger5859, they should be 0. If they do not match, unlink the account, and try again.
+Already linked your account? It may take up to 15 minutes for Avrae to recognize the link.
+Setto Kaiba — Yesterday at 9:53 PM
+He is like Gandalf... very powerful but never around 😂
+https://youtu.be/EkXMxiAGUWg?si=hUf9d8d6oYtuhPN5
+YouTube
+Matthew Colville
+The Sandbox vs the Railroad | Running the Game
+Image
+If you have never heard the lord of the rings as a dnd game you need to watch this 😂
+Setto Kaiba — Yesterday at 9:57 PM
+Link your account in dndbeyond and then try that again 👍
+Burger — Yesterday at 10:00 PM
+!tutorial beyond
+Avrae
+BOT
+ — Yesterday at 10:00 PM
+
+Burger
+Linking Your Account
+Did you know you can use all your D&D Beyond content in Avrae for free? It's pretty easy to set up!
+
+First, visit your Account Settings page in D&D Beyond. You'll see an option there to link your Discord account. Make sure you’re logged in with the correct Discord account when you do so.
+
+Once that's done, come back here and use !ddb to confirm.
+!ddb
+D&D Beyond Link | !tutorial skip to skip | !tutorial end to end
+Burger — Yesterday at 10:04 PM
+!ddb
+Avrae
+BOT
+ — Yesterday at 10:04 PM
+
+Burger
+Hello, geldenhuysburger8!
+You're all set! Any content you have access to on D&D Beyond is now available for you to use on Avrae.
+
+Burger
+Content Lookup
+Now that you’re set up, let’s try it out! Use !spell <name> to look up a spell. Avrae will give you the full details for any spell you have in D&D Beyond.
+!spell <name>
+D&D Beyond Link | !tutorial skip to skip | !tutorial end to end
+Setto Kaiba — Yesterday at 10:05 PM
+Use !import and then the characters link
+Burger — Yesterday at 10:06 PM
+!import
+Avrae
+BOT
+ — Yesterday at 10:06 PM
+Error: url is a required argument that is missing.
+Use !help import for help.
+Setto Kaiba — Yesterday at 10:07 PM
+Just add the link after !import ...
+Burger — Yesterday at 10:07 PM
+!import!www.dndbeyond.com/characters/118139214/Sr103T
+Soos dit😂🙈
+Setto Kaiba — Yesterday at 10:08 PM
+Amper... !import link
+Burger — Yesterday at 10:08 PM
+!import www.dndbeyond.com/characters/118139214/Sr103T
+Setto Kaiba — Yesterday at 10:08 PM
+space na import en die link
+Avrae
+BOT
+ — Yesterday at 10:08 PM
+Loaded and saved data for Patty! 
+Patty
+Mountain Dwarf Fighter 4
+Proficiency Bonus: +2
+AC: 11
+HP: 36/36
+Initiative: +1
+STR: 17 (+3) DEX: 12 (+1) CON: 14 (+2)
+INT: 10 (+0) WIS: 10 (+0) CHA: 12 (+1)
+Save Proficiencies: Strength +5, Constitution +4
+Skill Proficiencies: Athletics +5, Intimidation +3, Perception +2, Persuasion +3
+Senses: passive Perception 12
+Resistances: poison
+Attacks
+Unarmed Strike: Attack: +5 to hit. Hit: 4 [bludgeoning] damage.
+Currency
+:DDBPlatinum: 0 pp
+:DDBGold: 25 gp
+:DDBElectrum: 0 ep
+:DDBSilver: 0 sp
+:DDBCopper: 0 cp
+Image
+Basically_A_Chicken — Yesterday at 10:09 PM
+!update
+Avrae
+BOT
+ — Yesterday at 10:09 PM
+Updated and saved data for Ae'lun! 
+Burger — Yesterday at 10:10 PM
+Yeyyy😂
+Setto Kaiba — Yesterday at 10:11 PM
+Welcome Patty...
+We shall make your intro tomorrow once the game picks back up. You can read the pinned post here to get an idea of what is happening in general.
+Burger — Yesterday at 10:13 PM
+Ok doki thank you. You guys just need to be patient with me it's my first time
+Setto Kaiba — Yesterday at 10:15 PM
+@Turtlebaff420 that means using lube 🤣
+Basically_A_Chicken — Yesterday at 10:15 PM
+Tell that to the goblins😂
+Setto Kaiba — Yesterday at 10:16 PM
+Lube is for the weak...
+Enyawd Nightbeard — Yesterday at 10:20 PM
+!update
+Avrae
+BOT
+ — Yesterday at 10:20 PM
+Updated and saved data for Enyawd Nightbeard! 
+Basically_A_Chicken — Yesterday at 10:20 PM
+!update
+Avrae
+BOT
+ — Yesterday at 10:20 PM
+Updated and saved data for Ae'lun! 
+Deformiter (Arden) — Yesterday at 10:22 PM
+!update
+Avrae
+BOT
+ — Yesterday at 10:22 PM
+Updated and saved data for Arden Greenwood! 
+Deformiter (Arden) — Yesterday at 10:24 PM
+A few of us are first timers, but the campaign has been quite tough still 😄
+Setto Kaiba — Yesterday at 10:29 PM
+Everyone here has been doing great... Also if you can survive this game no dm will ever be able to kill your character 😂
+Burger — Yesterday at 10:32 PM
+lol😂
+Jarrod — Yesterday at 10:33 PM
+He says nearly killing my other character twice
+Setto Kaiba — Yesterday at 10:34 PM
+Are you even an adventurer if you haven't died atleast once 🤣
+Jarrod — Yesterday at 10:35 PM
+Does drowning count? 🤣🤣
+Setto Kaiba — Yesterday at 10:36 PM
+The greatest evil in dnd... stairs...doors... wells... pools of water 🤣
+Enyawd Nightbeard — Yesterday at 10:38 PM
+I got down to 2 health because of poor rolls and a 60ft fall
+Turtlebaff420 — Yesterday at 10:41 PM
+!update
+Avrae
+BOT
+ — Yesterday at 10:41 PM
+Updated and saved data for Nero Ebérloch! 
+Turtlebaff420 — Yesterday at 10:43 PM
+He has nearly killing my character every day for the last week😂
+Basically_A_Chicken — Yesterday at 10:44 PM
+its been a great time
+Turtlebaff420 — Yesterday at 10:45 PM
+So Nero is now a tortle😂 he has an AC of 17 minus a shield and chose that magic initiate feat
+Hit me now with your petty cheapshots😝
+Basically_A_Chicken — Yesterday at 10:47 PM
+so traumatized from almost getting killed you grew a shell
+Turtlebaff420 — Yesterday at 10:51 PM
+Yesh.....the world ain't safe no more and besides I need a shop to set up my exotic biltong stand of course...which reminds me dm I mentioned waiting to blood eagle the one goblin but could i just flay some goblin back and hang it to dry in the shell😅🙈😂
+Jarrod — Yesterday at 10:51 PM
+Ah the wizard helped you as well i see 🤣
+Turtlebaff420 — Yesterday at 10:53 PM
+So many nice new toys as well
+@Setto Kaiba why would my spell DC go down if I chose to improve on my constitution 🤔
+Jarrod — Yesterday at 10:57 PM
+Isnt it intelegent based
+Turtlebaff420 — Yesterday at 10:57 PM
+I mean charisma*
+A sorcers spell DC is charisma isn't it🤔
+Setto Kaiba — Yesterday at 11:00 PM
+Probably got a racial bonus
+Turtlebaff420 — Yesterday at 11:22 PM
+Dang it
+Basically_A_Chicken — Today at 12:05 AM
+!update
+Avrae
+BOT
+ — Today at 12:05 AM
+Updated and saved data for Ae'lun! 
+Basically_A_Chicken — Today at 12:06 AM
+Shnuggles shrunk slightly but now has wings, tattoos and claws😂
+Turtlebaff420 — Today at 12:22 AM
+I'm a level or 2 away from my wings but I have tattoos and claws too lol twinsies
+Avrae
+BOT
+ — Today at 12:49 AM
+Enyawd Nightbeard makes a Wisdom(+0) check!
+1d20 (7) = 7
+Image
+
+Rolled in Play By Post
+Enyawd Nightbeard makes a Wisdom Save(+0) Save!
+1d20 (3) = 3
+Image
+
+Rolled in Play By Post
+Enyawd Nightbeard — Today at 12:50 AM
+Just checking something ... sorry
+!update
+Avrae
+BOT
+ — Today at 12:50 AM
+Updated and saved data for Enyawd Nightbeard! 
+Deformiter (Arden) — Today at 6:48 AM
+some of us also just like roleplaying 🙈
+Deformiter (Arden) — Today at 6:56 AM
+Patty still needs to be added to the campaign 🙂
+Deformiter (Arden) — Today at 6:56 AM
+Arden would likely be 100% against this 😅
