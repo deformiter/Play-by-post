@@ -1624,3 +1624,122 @@ Enyawd will proceed to the room with the altar and give the teams the lie down o
 Calling to Ae'lun to bring the ropes with 
 Basically_A_Chicken — Today at 9:51 PM
 "Arden we brought you a friend, he likes donkies"
+Deformiter (Arden) — Yesterday at 9:57 PM
+Arden, intrigued by Ae'lun's introduction, offers a warm, if slightly bemused, smile. "A friend of nature's creatures is a friend of mine," he remarks, extending a hand in greeting to this new potential friend. With a gentle nod, he adds, "The bond between beings and the natural world is sacred. Your affinity for donkeys speaks of a kindred spirit." Arden's eyes, alight with curiosity, suggest an eagerness to learn more about this new friend's background and his interest in donkeys. 
+Burger — Yesterday at 10:28 PM
+Pizza accepts Arden's hand shake and returns with a  smile
+Avrae
+BOT
+ — Yesterday at 10:44 PM
+Pizza casts Thunderous Smite!
+Meta
+Damage: 2d6 (1, 4) = 5
+Effect
+The first time you hit with a melee weapon attack during this spell's duration, your weapon rings with thunder that is audible within 300 feet of you, and the attack deals an extra 2d6 thunder damage to the target. Additionally, if the target is a creature, it must succeed on a Strength saving throw or be pushed 10 feet away from you and knocked prone.
+Image
+
+Rolled in Play By Post
+Burger — Yesterday at 10:44 PM
+Sorry wrong button
+Turtlebaff420 — Yesterday at 11:04 PM
+Pizza is the surprise misdirect BBEG ...roll for initiative 😂
+Burger — Yesterday at 11:05 PM
+I don't know what BBEG is😐
+Turtlebaff420 — Yesterday at 11:06 PM
+Big Bad Evil Guy....basically the "final boss"
+Burger — Yesterday at 11:07 PM
+Ohhh 😂🤣🤣
+Basically_A_Chicken — Yesterday at 11:12 PM
+Ae'lun walks over to the alter and pulls out his dagger once again "everyone pick a sarcophagus just in case"
+Burger — Yesterday at 11:12 PM
+"Dibs the less scary one"
+Basically_A_Chicken — Yesterday at 11:13 PM
+"I have an idea and it just might backfire"
+Burger — Yesterday at 11:17 PM
+"I'll be standing wayy over there if it sound to backfiery"
+Where are all of us now
+?
+Basically_A_Chicken — Yesterday at 11:20 PM
+We should all me back in here at this point as far as Im aware?
+Image
+Burger — Yesterday at 11:21 PM
+Sweet
+Enyawd Nightbeard — Today at 6:12 AM
+Image
+Enyawd suggests to the team that we work together to open the sarcophagi, one at a time. Carefully checking for traps as we go
+Burger — Today at 8:32 AM
+!spell detect magic
+Avrae
+BOT
+ — Today at 8:32 AM
+
+Burger
+Detect Magic
+1st-level divination. (Artificer, Bard, Cleric, Druid, Paladin, Ranger, Sorcerer, Wizard, Arcana Domain, Oath of the Watchers)
+Meta
+Casting Time: 1 action (ritual)
+Range: Self (30 ft. sphere)
+Components: V, S
+Duration: Concentration, up to 10 minutes
+Description
+For the duration, you sense the presence of magic within 30 feet of you. If you sense magic in this way, you can use your action to see a faint aura around any visible creature or object in the area that bears magic, and you learn its school of magic, if any.
+
+The spell can penetrate most barriers, but it is blocked by 1 foot of stone, 1 inch of common metal, a thin sheet of lead, or 3 feet of wood or dirt.
+Spell | BR 231
+
+Burger
+You got it! If you’re a spellcaster, now you can even cast !cast those spells, too. It also works with all of the other lookup commands as well, like !monster, !item, or /lookup feat.
+
+Plus, you can share the fun with the rest of your party using D&D Beyond's Campaign Content Sharing. That lets the whole group share their unlocked game content with each other, and it works here in Avrae, too!
+D&D Beyond Link | !tutorial skip to skip | !tutorial end to end
+
+Burger
+Campaign Link
+If Pizza is assigned to a D&D Beyond campaign, it gets even better! The DM for that campaign can link it to a specific Discord channel by using !campaign [campaign_link] in that channel. This will tie that channel to your campaign’s Game Log.
+
+After that, any rolls you make here in Avrae will show up in real time in the Game Log. Plus, any digital dice rolls on your character sheet in D&D Beyond will also be sent to the Game Log, and back to your Discord channel as well!
+
+Once your campaign is linked, let’s make a stealth check and see it in action.
+!check stealth
+D&D Beyond Link | !tutorial skip to skip | !tutorial end to end
+Burger — Today at 8:32 AM
+Yeyy it works
+Sorry wanted to check something out
+So I can detect magic. So I think that includes magic traps
+I can also detect evil and good with divine sense
+How thick us the sarcophagus stone?
+Enyawd Nightbeard — Today at 8:51 AM
+Enyawd looks at Pizza, "How about you introduce yourself, fiend?"
+Deformiter (Arden) — Today at 9:03 AM
+Arden looks at this potential friend and notes that he's interested to learn more about his background and his interest in donkeys. 
+Burger — Today at 9:12 AM
+"Oh right, sorry friend it's just I saw this place when I first arrived here and sins then this place puzzled me".
+Turtlebaff420 — Today at 9:22 AM
+Nero leans over at Enyawd...."whisper where exactly did you find this guy again??? Think he's been drugged ..he aint making a lick of sense...."
+Burger — Today at 9:23 AM
+"Let me introduce myself, my name is pizza. I'm a soldier who fought in many grate wars after all the fighting and violence I brought back the grate connection I have with nature it self. While understanding and comprehending the true power and love that this world gives I fell in love with a druid in her animal form I've only seen her in her animal form but I can feel there is something more than just a donkey and so I set out my own quest to find her, to find love.
+Burger — Today at 9:27 AM
+"I can hear you. I'm not affected by any chemical or drug. I'm just not used to have so many friend, I only hade allies in war and I've lost to many to make friends. " 
+Turtlebaff420 — Today at 9:43 AM
+Friends? We barely just met you bucko....I wouldn't trust you past my shell....Nero snears at pizza. "You're telling me a big strong soldier such as yourself got captured and tied up by a couple halfpint furbog turds? He looks at the others....what say you....somethings giving me the willies😑
+disclaimer Willie's is an old English term for hibiejibies for all you gutter minds😂
+Burger — Today at 9:49 AM
+"friend because I like you all, you look like good allies and I understand that you don't trust me but I can assure you I don't mean any harm, and yes I was cought because I was ambushed by more than 50 of them. I believe you when you said you like Willie's 😂 
+Setto Kaiba — Today at 9:59 AM
+After meeting Pizza, what is the party planning to do next?
+Turtlebaff420 — Today at 10:11 AM
+Nero readies a chromatic orb...."say that again lad....."
+Jarrod — Today at 10:13 AM
+Well since the arent goblins we could move to the next site. Unless its night time we take our rest and in the morning we out and seal the cave
+Burger — Today at 10:14 AM
+"What you going to do about it"  wile exhaling a dark blue fiery substance that looks like lightning
+Turtlebaff420 — Today at 10:16 AM
+"More than those goblins ever could....try me😈"......Nero looks at Arden Perri and Enyawd..... you better control your pet lads.....he's off leash and headin for a smacked bottom😑"
+Burger — Today at 10:17 AM
+I don't have time for you children toys turtle let's leave this situation.
+Burger — Today at 10:18 AM
+Just get back into your shell 😑
+Turtlebaff420 — Today at 10:20 AM
+Excuse you...😠....should oblige the the boots comment from earlier and bend you over my knee show you who the real child  is....
+Burger — Today at 10:23 AM
+Oh you would like that, seen that you like Willie's 🙄😑
