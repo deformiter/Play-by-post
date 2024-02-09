@@ -2554,3 +2554,209 @@ You see as this giant goat gets butchered and then Arden reverting back to norma
 Then Pizza is up followed by Arden.
 Deformiter (Arden) — Today at 2:25 PM
 Arden breathes a sigh of relief over deciding to use Wild Shape when he did
+Deformiter (Arden) — Today at 2:33 PM
+What size are these skeletal goblins ?
+Setto Kaiba — Today at 2:35 PM
+They are bulky but classified as Medium
+Burger — Today at 3:02 PM
+My turn?
+Setto Kaiba — Today at 3:06 PM
+Jip
+Burger — Today at 3:07 PM
+Ok I would like do use thunder smite with my long sword and then use my movements as a ready action 
+This will be for sg3
+Avrae
+BOT
+ — Today at 3:11 PM
+Pizza attacks with a Longsword!
+Meta
+Damage: 1d10 (6) + 4 = 10
+Effect
+Proficiency with a longsword allows you to add your proficiency bonus to the attack roll for any attack you make with it.
+Image
+
+Rolled in Play By Post
+Burger — Today at 3:12 PM
+Sorry I did not want to do that
+There are 2 dice roll things
+Image
+Setto Kaiba — Today at 3:18 PM
+So as your bonus action you imbue your weapon with an incantation making your next attack stronger... Then you want to attack using your long sword correct? 
+
+The 2 different numbers are one handed and two handed attacks. If you attack with it as a one handed weapon i.e. wielding a shield or two handed.
+Burger — Today at 3:20 PM
+Ok well I'll use it with both hand and yes I'd like to use the thunder smite
+Setto Kaiba — Today at 3:20 PM
+Roll to attack...
+Avrae
+BOT
+ — Today at 3:21 PM
+Pizza attacks with a Longsword!
+Meta
+Damage: 1d10 (3) + 4 = 7
+Effect
+Proficiency with a longsword allows you to add your proficiency bonus to the attack roll for any attack you make with it.
+Image
+
+Rolled in Play By Post
+Pizza casts Thunderous Smite!
+Meta
+Damage: 2d6 (3, 4) = 7
+Effect
+The first time you hit with a melee weapon attack during this spell's duration, your weapon rings with thunder that is audible within 300 feet of you, and the attack deals an extra 2d6 thunder damage to the target. Additionally, if the target is a creature, it must succeed on a Strength saving throw or be pushed 10 feet away from you and knocked prone.
+Image
+
+Rolled in Play By Post
+Setto Kaiba — Today at 3:22 PM
+You need to roll the To Hit one first to see if it will hit the AC of the monster. If that number is bigger than the AC of the monster then you hit and then you can apply the damage.
+Avrae
+BOT
+ — Today at 3:23 PM
+Pizza attacks with a Longsword!
+Meta
+To Hit: 1d20 (8) + 6 = 14
+Damage: Waiting for roll...
+Effect
+Proficiency with a longsword allows you to add your proficiency bonus to the attack roll for any attack you make with it.
+Image
+
+Rolled in Play By Post
+Burger — Today at 3:24 PM
+I missed damit
+Avrae
+BOT
+ — Today at 3:27 PM
+Pizza attacks with a Longsword!
+Meta
+Damage: 1d10 (5) + 4 = 9
+Effect
+Proficiency with a longsword allows you to add your proficiency bonus to the attack roll for any attack you make with it.
+Image
+
+Rolled in Play By Post
+Setto Kaiba — Today at 3:48 PM
+So maintaining concentration on your spell you attack the skeleton, but your weapon is not able to pierce its armor.
+
+You do still have the thunderous smite active... as long as you can maintain concentration on the spell 😁
+
+If that is it...? then Arden can go followed by Au'lun.
+Burger — Today at 3:48 PM
+Sure
+Deformiter (Arden) — Today at 3:51 PM
+Reeling from the impact that forced him out of his Wild Shape form, Arden's survival instincts kick in. He quickly extends his hand towards the nearest skeleton goblin [SG2], fingers splayed, and calls upon the winds to heed his command. With a sharp incantation, a sudden gust [Gust Cantrip] appears in an attempt to propel the creature back, hopefully giving Arden precious space.
+!spell gust
+Avrae
+BOT
+ — Today at 3:51 PM
+
+Deformiter (Arden)
+Gust
+transmutation cantrip. (Druid, Sorcerer, Wizard)
+Meta
+Casting Time: 1 action
+Range: 30 feet
+Components: V, S
+Duration: Instantaneous
+Description
+You seize the air and compel it to create one of the following effects at a point you can see within range:
+
+One Medium or smaller creature that you choose must succeed on a Strength saving throw or be pushed up to 5 feet away from you.
+You create a small blast of air capable of moving one object that is neither held nor carried and that weighs no more than 5 pounds. The object is pushed up to 10 feet away from you. It isn't pushed with enough force to cause damage.
+You create a harmless sensory effect using air, such as causing leaves to rustle, wind to slam shutters shut, or your clothing to ripple in a breeze.
+Spell | EE 157
+Deformiter (Arden) — Today at 3:52 PM
+Oh wait, I thought it was a bonus action -_- 
+Please ignore this? ❤️
+Arden shifts his focus, whispering an invocation [Heat Metal Level 2] that causes the armor the skeletal goblin [SG2] is wearing to glow red-hot. The metal begins to sear the skeletal structure, the heat intensifying with Arden's focused will.
+!spell heat metal
+Avrae
+BOT
+ — Today at 3:55 PM
+
+Deformiter (Arden)
+Heat Metal
+2nd-level transmutation. (Artificer, Bard, Druid, Forge Domain)
+Meta
+Casting Time: 1 action
+Range: 60 feet
+Components: V, S, M (a piece of iron and a flame)
+Duration: Concentration, up to 1 minute
+Description
+Choose a manufactured metal object, such as a metal weapon or a suit of heavy or medium metal armor, that you can see within range. You cause the object to glow red-hot. Any creature in physical contact with the object takes 2d8 fire damage when you cast the spell. Until the spell ends, you can use a bonus action on each of your subsequent turns to cause this damage again.
+
+If a creature is holding or wearing the object and takes the damage from it, the creature must succeed on a Constitution saving throw or drop the object if it can. If it doesn't drop the object, it has disadvantage on attack rolls and ability checks until the start of your next turn.
+At Higher Levels
+When you cast this spell using a spell slot of 3rd level or higher, the damage increases by 1d8 for each slot level above 2nd.
+Spell | BR 250
+Setto Kaiba — Today at 3:58 PM
+That's just mean... 😂 Roll for damage
+Enyawd Nightbeard — Today at 4:05 PM
+Drop the armor
+so everyone is still where they were previously?
+Turtlebaff420 — Today at 4:12 PM
+Plate amour takes ages to takeoff😂
+Enyawd Nightbeard — Today at 4:13 PM
+Sounds like a skeleton problem to me
+Basically_A_Chicken — Today at 4:14 PM
+We get a show😂
+Avrae
+BOT
+ — Today at 4:15 PM
+Arden Greenwood casts Heat Metal!
+Meta
+Damage: 2d8 (5, 5) = 10
+Effect
+Any creature in physical contact with the object takes 2d8 fire damage when you cast the spell. Until the spell ends, you can use a bonus action on each of your subsequent turns to cause this damage again.
+
+If a creature is holding or wearing the object and takes the damage from it, the creature must succeed on a Constitution saving throw or drop the object if it can. If it doesn't drop the object, it has disadvantage on attack rolls and ability checks until the start of your next turn.
+Image
+
+Rolled in Play By Post
+Enyawd Nightbeard — Today at 4:16 PM
+Deformiter (Arden) — Today at 4:16 PM
+either that or he's gonna burn every turn 😉
+With that, Arden ends his turn
+Basically_A_Chicken — Today at 4:17 PM
+Does having the scythe there count as flanking?
+Enyawd Nightbeard — Today at 4:18 PM
+Spiritual Weapons do not give flanking to other creatures. However, a creature attacking with their Spiritual Weapon will get flanking if one of their allies is in a position to flank. Flanking states that an ally must be on the other side but not that the attack must come from your position.
+Toombz — Today at 4:25 PM
+Great question. Would be awesome to have advantage for attacking rolls😁
+Basically_A_Chicken — Today at 4:27 PM
+Okay and then I would also like to just confirm Shnuggles was summoned just before combat when I checked the chest (he should stay around until he dies) but I have no idea where he technically is
+Enyawd Nightbeard — Today at 4:27 PM
+I think I might've landed on him
+Basically_A_Chicken — Today at 4:28 PM
+He flew back into the room 😂
+Deformiter (Arden) — Today at 4:30 PM
+I thought he flew back to you? could be mistaken
+oh no, he just flew back in
+so probably at the entrance to the room
+Enyawd Nightbeard — Today at 4:32 PM
+Next to the goblin
+Basically_A_Chicken — Today at 4:44 PM
+Okay then I'll just disengage and run towards Peridot I'm pretty much dead
+Turtlebaff420 — Today at 4:49 PM
+@Enyawd Nightbeard  map update please
+Basically_A_Chicken — Today at 4:49 PM
+Then I'll use my bonus action to command Shnuggles to use flyby and retreat towards me as well
+And thats my turn😅
+Enyawd Nightbeard — Today at 4:50 PM
+You'll have to wait. I'm away from my pc
+Turtlebaff420 — Today at 4:52 PM
+No stress just wanted to asses the battlefield before my turn as I believe I'm next
+Enyawd Nightbeard — Today at 4:53 PM
+Image
+Basically_A_Chicken — Today at 5:02 PM
+Image
+Deformiter (Arden) — Today at 5:14 PM
+What is Enyawd's status at this this point? dead? doing saving throws? still alive but barely?
+ahh, 3 HP
+Ky — Today at 5:19 PM
+And Ae'lun? How many hp do you still have?
+Basically_A_Chicken — Today at 5:21 PM
+Im on 6
+Ky — Today at 5:22 PM
+Cool, Tova can help you on her next turn since she can see you. Sadly Enwayd is a bit far and out of range
+Deformiter (Arden) — Today at 5:26 PM
+Enyawd gonna have to use that secret health potion he's been hiding from us 🤣
