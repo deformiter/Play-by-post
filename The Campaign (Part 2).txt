@@ -3969,3 +3969,180 @@ Setto Kaiba — Today at 9:06 PM
 Using your longsword you strike at the skeleton, yet he perries with his scimitar, not only costing you a strike but also a spell slot.
 
 If that is all, then Arden, you are up 
+Deformiter (Arden) — Today at 9:27 PM
+Observing Tova's wounds and recognizing her critical role in their survival, Arden, with a steadying breath, channels the healing energies of nature to weave a spell of rejuvenation towards her. "Be mended by the forest's caress," he whispers, casting Healing Word [Level 1] to bolster her resilience.
+Avrae
+BOT
+ — Today at 9:27 PM
+Arden Greenwood heals with Healing Word!
+1d4 (3) + 3 = 6
+Image
+
+Rolled in Play By Post
+Deformiter (Arden) — Today at 9:29 PM
+Then, turning his attention to the immediate threat, Arden recalls the efficacy of his previous spell against the skeletal goblins. With a focused gaze on the skeletal goblin that's menacingly close to both him and Tova [SG2], he invokes the essence of the fire, casting Heat Metal once again. "Let the forge's fury bind your bones," he intones, aiming to make the skeletal goblin's armor unbearably hot, hoping to distract or debilitate it further, giving them a crucial advantage in the relentless dance of death they're ensnared in.
+Avrae
+BOT
+ — Today at 9:30 PM
+Arden Greenwood casts Heat Metal!
+Meta
+Damage: 2d8 (2, 1) = 3
+Effect
+Any creature in physical contact with the object takes 2d8 fire damage when you cast the spell. Until the spell ends, you can use a bonus action on each of your subsequent turns to cause this damage again.
+
+If a creature is holding or wearing the object and takes the damage from it, the creature must succeed on a Constitution saving throw or drop the object if it can. If it doesn't drop the object, it has disadvantage on attack rolls and ability checks until the start of your next turn.
+Image
+
+Rolled in Play By Post
+Deformiter (Arden) — Today at 9:30 PM
+🤦‍♂️
+Aaaaand with that, Arden's turn is over
+Basically_A_Chicken — Today at 9:43 PM
+Shnuggles is going to fly over the alter and land next to Arden then Ae'lun is going to take his daggers and start swinging wildly at SG1 screaming "why! wont! you die already!"
+Avrae
+BOT
+ — Today at 9:43 PM
+Ae'lun attacks with a Dagger!
+Meta
+To Hit: 1d20 (5) + 6 = 11
+Damage: Waiting for roll...
+Effect
+Proficiency with a dagger allows you to add your proficiency bonus to the attack roll for any attack you make with it.
+Image
+
+Rolled in Play By Post
+Ae'lun attacks with a Dagger!
+Meta
+To Hit: 1d20 (2) + 6 = 8
+Damage: Waiting for roll...
+Effect
+Proficiency with a dagger allows you to add your proficiency bonus to the attack roll for any attack you make with it.
+Image
+
+Rolled in Play By Post
+Basically_A_Chicken — Today at 9:44 PM
+🥲
+I think Ae'lun might actually be crying at this point
+Toombz — Today at 9:46 PM
+Newbie curse too? Welcome to the club😂😂
+Image
+Basically_A_Chicken — Today at 9:49 PM
+my dice are rusty switched em out again
+Ky — Today at 10:06 PM
+Tova will nod in thanks as she feels the healing take hold
+Setto Kaiba — Today at 10:13 PM
+That is a valiant effort from Arden, however do keep in mind that you cannot cast 2 levelled spells in one turn. When you cast a spell as a Bonus Action you can only cast a spell as an Action if it is a Cantrip. Thus the Healing Word will work, but the Heat Metal will not.
+Toombz — Today at 10:16 PM
+True
+Setto Kaiba — Today at 10:17 PM
+With SG1 able to easily perry the attack from Au'lun, he stands there ready to retaliate.
+Nero... you are up
+Deformiter (Arden) — Today at 10:25 PM
+My Healing Word is a bonus action though?
+Jarrod — Today at 10:26 PM
+Dnd rules sorry
+Deformiter (Arden) — Today at 10:27 PM
+Yea, no problem, what's the benefit to it being a bonus action then though?
+Jarrod — Today at 10:28 PM
+You get to cast a cantrip
+Or use a melee weapon
+Deformiter (Arden) — Today at 10:28 PM
+ah, well then can I make a melee attack instead?
+don't want to waste an action.
+Ky — Today at 10:29 PM
+It is a bonus action but you aren't able to cast two level spells per turn. You're only allowed to cast leveled spell  as a bonus action with a cantrip as an action. I think the bonus action spells helps if you make weapon attacks maybe
+Setto Kaiba — Today at 10:30 PM
+sure
+Deformiter (Arden) — Today at 10:35 PM
+Arden shifts his focus from the arcane to the martial. He grasps his quarterstaff with both hands, the wood humming softly with the residual energy of his druidic magic. "Let nature's wrath be felt," Arden murmurs, more to himself than anyone else, as he raises the quarterstaff. With the precision of a seasoned guardian of the wilds, he aims a sweeping strike towards the skeletal goblin. 
+Avrae
+BOT
+ — Today at 10:36 PM
+Arden Greenwood attacks with a Quarterstaff!
+Meta
+To Hit: 1d20 (9) + 2 = 11
+Damage: Waiting for roll...
+Effect
+Proficiency with a quarterstaff allows you to add your proficiency bonus to the attack roll for any attack you make with it.
+Image
+
+Rolled in Play By Post
+Turtlebaff420 — Today at 10:36 PM
+Can I cast a leveled spell as a bonus action followed by a cantrip then?
+Deformiter (Arden) — Today at 10:36 PM
+from what I just now understand, yes.
+Avrae
+BOT
+ — Today at 10:38 PM
+Nero Ebérloch casts Chromatic Orb!
+Meta
+To Hit: 1d20 (5) + 4 = 9
+Damage: Waiting for roll...
+Effect
+You hurl a 4-inch-diameter sphere of energy at a creature that you can see within range. You choose acid, cold, fire, lightning, poison, or thunder for the type of orb you create, and then make a ranged spell attack against the target. If the attack hits, the creature takes 3d8 damage of the type you chose.
+Image
+
+Rolled in Play By Post
+Turtlebaff420 — Today at 10:39 PM
+Ffs....
+Avrae
+BOT
+ — Today at 10:39 PM
+Nero Ebérloch casts Fire Bolt!
+Meta
+To Hit: 1d20 (12) + 4 = 16
+Damage: Waiting for roll...
+Effect
+You hurl a mote of fire at a creature or object within range. Make a ranged spell attack against the target. On a hit, the target takes 1d10 fire damage. A flammable object hit by this spell ignites if it isn't being worn or carried.
+
+This spell's damage increases by 1d10 when you reach 5th level (2d10), 11th level (3d10), and 17th level (4d10).
+Image
+
+Rolled in Play By Post
+Ky — Today at 10:40 PM
+Who are you attacking?
+Turtlebaff420 — Today at 10:41 PM
+Hopefully that atleast manages a hit.... SG1  didn't I mention several times I was targeting that one? My bad. Can't hit the goblin king without it risking being hit and loosing concentration. So SG1 is the only one In range
+Ky — Today at 10:43 PM
+Yes if the spell you cast says it's a bonus action then you can use a cantrip as an action. Chromatic orb takes an action as does fire bolt. They both take an action to cast meaning you can't cast them both in the same round 
+Turtlebaff420 — Today at 10:44 PM
+Apologies I'm really tired and read I can cast a spell then a cantrip so my mind registered it exactly as is🤦‍♂️.....
+Alright disregard the cantrip dm and can I use my bonus action to retreat into my shell? Can't remember if we discussed the mechanic staying the same or not. (Still think its silly to cost an action to go in but a bonus to come out?) 
+Jeepers my typos🤦‍♂️🤦‍♂️🤦‍♂️
+Setto Kaiba — Today at 10:52 PM
+We have discussed the rules and balancing of this via private chat already in length... in my opinion you are deliberatly trying to bend the rules or conveniently forgetting things to try and get an unfair advantage hoping that I would miss this, unfortunately your actions are your actions and I will not allow it to be changed.
+Tova, you are up
+Ky — Today at 11:01 PM
+Tova will use her bonus action to cast healing word on Arden again (lvl 1) to try up his health a bit more and then strike at SG2 with her Warhammer
+Avrae
+BOT
+ — Today at 11:01 PM
+Tova Truestorm heals with Healing Word!
+1d4 (3) + 2 = 5
+Image
+
+Rolled in Play By Post
+ 
+Tova Truestorm attacks with a Warhammer!
+Meta
+To Hit: 1d20 (20) + 4 = 24
+Damage: 2d8 (4, 5) + 2 = 11
+Effect
+Proficiency with a warhammer allows you to add your proficiency bonus to the attack roll for any attack you make with it.
+Image
+
+Rolled in Play By Post
+Ky — Today at 11:03 PM
+Arden, you can take 5 more healing.
+Jarrod — Today at 11:04 PM
+Sheesh tova here with the crit
+Ky — Today at 11:05 PM
+I mean it was about time I hit something 🤣
+Tova won't move at this time, so I am done
+Setto Kaiba — Today at 11:08 PM
+Tova, using her divine energy to heal Arden and then swinging in anger will hit the Skeleton, crushing his bones scattering it accross the room... SG2 is no more.
+Well Done 🎉
+Basically_A_Chicken — Today at 11:08 PM
+Note to self don't piss off Tova💀
+Setto Kaiba — Today at 11:15 PM
+Looking at the Skeleton SG3, you will see him starting to exude a purplish energy as he explodes flinging necrotic energy in a 10ft radius... Pizza, please give me a Dexterity Saving DC: 12
