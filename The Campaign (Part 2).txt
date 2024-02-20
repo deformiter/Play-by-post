@@ -6335,3 +6335,363 @@ Toombz — Today at 7:56 AM
 I feel your pain.. Probably much more than you do. I've been rolling like shit since I started, had a nat 1 while attacking this ghost, then the ghost got a nat 20 attacking me. This dice is rigged
 Setto Kaiba — Today at 8:54 AM
 Nero... not able to hit the ghost... Then it is Arden followed by Pizza
+Deformiter (Arden) — Today at 10:42 AM
+Arden summons forth a small orb of fire within his palm, glowing with a fierce intensity. With a steady gaze fixed upon the wraith, Arden extends his arm forward and releases the flame towards the enemy. [Produce Flame (cantrip)]
+Avrae
+BOT
+ — Today at 10:42 AM
+Arden Greenwood casts Produce Flame!
+Meta
+To Hit: 1d20 (2) + 5 = 7
+Damage: Waiting for roll...
+Effect
+A flickering flame appears in your hand. The flame remains there for the duration and harms neither you nor your equipment. The flame sheds bright light in a 10-foot radius and dim light for an additional 10 feet. The spell ends if you dismiss it as an action or if you cast it again.
+
+You can also attack with the flame, although doing so ends the spell. When you cast this spell, or as an action on a later turn, you can hurl the flame at a creature within 30 feet of you. Make a ranged spell attack. On a hit, the target takes 1d8 fire damage.
+
+This spell's damage increases by 1d8 when you reach 5th level (2d8), 11th level (3d8), and 17th level (4d8).
+Image
+
+Rolled in Play By Post
+Deformiter (Arden) — Today at 10:43 AM
+As Arden releases the flame towards the wraith, the flame sputters and veers off course, dissipating into the shadows without impact.
+Arden will return back into the shadows and meld into the background with Mask of the Wild - and end his turn. 
+Burger — Today at 11:07 AM
+I'll move in between dumbledick and the frog thingy
+Then I shall use breath weapon
+Toombz — Today at 12:26 PM
+Won't that make Enyawd take damage too? 
+Burger — Today at 12:42 PM
+Shit
+I'll use my long sword then
+Toombz — Today at 12:45 PM
+I think you can use your breath weapon if you stand in the same block as the "frog thing" LMAO because it's small and if you shoot it at the ghost no one else will get harmed 
+@Setto Kaiba ?
+Toombz — Today at 1:22 PM
+Like here where a Skeleton moved through Shnuggles space
+Enyawd Nightbeard — Today at 2:29 PM
+Image
+Setto Kaiba — Today at 2:43 PM
+Sure..  I think it will be ok to share a space with Snuggles
+Toombz — Today at 3:01 PM
+@Burger your breath weapon is allowed!! @Setto Kaiba I guess that means you make a DC save?
+=MrFarmy= — Today at 3:25 PM
+!import https://www.dndbeyond.com/characters/119141858
+D&D Beyond
+D&D Beyond Character Sheet
+The World's most intelligent Dungeons and Dragons Character Sheet.
+D&D Beyond Character Sheet
+Avrae
+BOT
+ — Today at 3:25 PM
+Loaded and saved data for Burdok Bloodclaw! 
+Burdok Bloodclaw
+Half-Orc Fighter 1
+Proficiency Bonus: +2
+AC: 17
+HP: 11/11
+Initiative: +2
+STR: 17 (+3) DEX: 14 (+2) CON: 13 (+1)
+INT: 10 (+0) WIS: 13 (+1) CHA: 8 (-1)
+Save Proficiencies: Strength +5, Constitution +3
+Skill Proficiencies: Athletics +5, Insight +3, Intimidation +1, Perception +3, Religion +2
+Senses: passive Perception 13
+Attacks
+Unarmed Strike: Attack: +5 to hit. Hit: 4 [bludgeoning] damage.
+War Pick: Attack: +5 to hit. Hit: 1d8+3 [piercing] damage.
+War Pick 2: Attack: +5 to hit. Hit: 1d8+3 [piercing] damage.
+Currency
+:DDBPlatinum: 0 pp
+:DDBGold: 15 gp
+:DDBElectrum: 0 ep
+:DDBSilver: 0 sp
+:DDBCopper: 0 cp
+Image
+Turtlebaff420 — Today at 3:31 PM
+Interesting we need a tanky Mcmeatshield😅😅😅
+Setto Kaiba — Today at 4:09 PM
+!roll 1d20 +2
+Avrae
+BOT
+ — Today at 4:09 PM
+@Setto Kaiba  :game_die:
+Result: 1d20 (17) + 2
+Total: 19
+Setto Kaiba — Today at 4:10 PM
+I believe that is a success but I think I take half damage
+Toombz — Today at 4:16 PM
+So @Burger I think you must roll 2d6 if I'm not mistaken and @Setto Kaiba will take half that.
+Avrae
+BOT
+ — Today at 4:27 PM
+Pizza attacks with Breath Weapon (Blue)!
+Meta
+Damage: 2d6 (2, 2) = 4
+Image
+
+Rolled in Play By Post
+Pizza attacks with Breath Weapon (Blue)!
+Meta
+Damage: 2d6 (4, 2) = 6
+Image
+
+Rolled in Play By Post
+Burger — Today at 4:27 PM
+I think I did it twice
+Setto Kaiba — Today at 4:29 PM
+I'll just take the 1st... so half of 4 is 2 damage 👍
+You moving or staying where you are?
+Burger — Today at 5:32 PM
+Staying
+Deformiter (Arden) — Today at 5:41 PM
+You'll need to check with the DM, but I think your character needs to be level 4 🙂
+Oh, I see it is, try !update
+=MrFarmy= — Today at 5:42 PM
+!update
+Avrae
+BOT
+ — Today at 5:42 PM
+Updated and saved data for Burdok Bloodclaw! 
+Deformiter (Arden) — Today at 5:42 PM
+Awesome 😄
+And then....
+
+Use this link to join your character to the campaign
+
+https://www.dndbeyond.com/campaigns/join/5072205567757623
+=MrFarmy= — Today at 5:43 PM
+I think I'm already in there, Setto sent me the link earlier to join up
+Deformiter (Arden) — Today at 5:44 PM
+Oh, my bad 😄
+Toombz — Today at 5:46 PM
+Since Pizza is staying where he is on the tile where Snuggles is, Dumbledick will move to the tile on his right so his next 2 attacks have advantage @Setto Kaiba first will be an attack with Spiritual Weapon
+!roll adv 1d20 +4
+Avrae
+BOT
+ — Today at 5:46 PM
+@Toombz  :game_die:
+Result: 2d20kh1 (3, 1) + 4
+Total: 7
+Toombz — Today at 5:46 PM
+Second will be an attack with Shocking Grasp cantrip
+!roll adv 1d20 +5
+Avrae
+BOT
+ — Today at 5:46 PM
+@Toombz  :game_die:
+Result: 2d20kh1 (19, 7) + 5
+Total: 24
+Toombz — Today at 5:47 PM
+!roll 1d8
+Avrae
+BOT
+ — Today at 5:47 PM
+@Toombz  :game_die:
+Result: 1d8 (8)
+Total: 8
+Toombz — Today at 5:51 PM
+As a result, the Ghost can't take reactions until the start of its next turn, so people won't take attacks of opportunity if they decide to run from the Ghost. If Dumbledick can move through the Ghost, he would like to move to where his Spiritual Weapon currently is and move his Spiritual Weapon to the tile above Tova. That will end my turn
+If Dumbledick cannot move through the Ghost, then he would like to still move the spiritual weapon to the tile above Tova, but will himself move to the tile to the right of Tova
+Setto Kaiba — Today at 6:18 PM
+You will not be able to move through his space unfortunately ☠️ but otherwise great... as he takes 8 points of lightning damage...
+Then it is Au'lun and after that Enyawd
+Basically_A_Chicken — Today at 6:35 PM
+Shnuggles is going to help while I attack again😂 theres not much else I can really do at this point
+Avrae
+BOT
+ — Today at 6:35 PM
+ 
+Ae'lun attacks with a Longbow!
+Meta
+To Hit: 2d20kh1 (11, 2) + 8 = 19
+Damage: 1d8 (8) + 4 = 12
+Effect
+Proficiency with a longbow allows you to add your proficiency bonus to the attack roll for any attack you make with it.
+Image
+
+Rolled in Play By Post
+Ae'lun casts Hunter's Mark!
+Meta
+Damage: 1d6 (1) = 1
+Effect
+You choose a creature you can see within range and mystically mark it as your quarry. Until the spell ends, you deal an extra 1d6 damage to the target whenever you hit it with a weapon attack, and you have advantage on any Wisdom (Perception) or Wisdom (Survival) check you make to find it. If the target drops to 0 hit points before this spell ends, you can use a bonus action on a subsequent turn of yours to mark a new creature.
+Image
+
+Rolled in Play By Post
+Basically_A_Chicken — Today at 6:37 PM
+Not going to move either
+Avrae
+BOT
+ — Today at 6:41 PM
+@Enyawd Nightbeard rolled from :beyond::
+Result: 1d20 (6)
+Total: 6
+@Enyawd Nightbeard rolled from :beyond::
+Result: 3d8 (6, 6, 1)
+Total: 13
+Enyawd Nightbeard — Today at 6:42 PM
+Image
+Enyawd suffers the curse ... Goblinsbane requiring a sacrifice of 13 bludgeoning damage
+Avrae
+BOT
+ — Today at 6:43 PM
+@Enyawd Nightbeard rolled from :beyond::
+Result: 1d20 (15)
+Total: 15
+ 
+Enyawd Nightbeard attacks with Dagger!
+Meta
+To Hit: 1d20 (16) + 5 = 21
+Damage: 1d4 (1) = 1
+Image
+
+Rolled in Play By Post
+Enyawd Nightbeard attacks with Sneak Attack!
+Meta
+Damage: 2d6 (4, 6) = 10
+Image
+
+Rolled in Play By Post
+Enyawd Nightbeard — Today at 6:44 PM
+So that's 11 damage for ghostpops
+and Enyawd stays in place
+Setto Kaiba — Today at 6:50 PM
+If you are attacking with 2 daggers... then shouldn't you roll 2 curse rolls 🤔
+Setto Kaiba — Today at 6:51 PM
+nvm 🤦‍♂️ missed that one 🤣 
+Setto Kaiba — Today at 6:53 PM
+That was a heavy toll on that one 😳
+Toombz — Today at 6:53 PM
+@Setto Kaiba YOUR MOVE!! 
+I've been wanting to do this to you for a while🤣🤣🤣 
+Setto Kaiba — Today at 7:00 PM
+That is the perfect intro... The ghost, angered by Enyawd's attack will burst out in a rage... as it bellows it emits a sound so loud that you feel your soul being drained from your body... I need everyone within 30ft to please give me a Constitution Saving Throw... DC13...
+Deformiter (Arden) — Today at 7:02 PM
+is Arden in range? xD
+Toombz — Today at 7:02 PM
+Everyone except Ae'lun basically🤣🤣
+Toombz — Today at 7:03 PM
+I believe so yes
+Avrae
+BOT
+ — Today at 7:03 PM
+Arden Greenwood makes a Constitution Save!
+1d20 (14) + 1 = 15
+Image
+
+Rolled in Play By Post
+Deformiter (Arden) — Today at 7:04 PM
+Toombz — Today at 7:05 PM
+!roll 1d20 +1
+Avrae
+BOT
+ — Today at 7:05 PM
+@Toombz  :game_die:
+Result: 1d20 (17) + 1
+Total: 18
+Tova Truestorm makes a Constitution Save!
+1d20 (8) + 3 = 11
+Image
+
+Rolled in Play By Post
+Toombz — Today at 7:06 PM
+Image
+Basically_A_Chicken — Today at 7:07 PM
+Ae'lun gets a fright and lets out a high pitched scream of his own
+Toombz — Today at 7:09 PM
+Everyone, your turns to make DC 13 Constitution saving throws
+Setto Kaiba — Today at 7:13 PM
+Everyone that fails the save... drops to 0 HP immediately... Everyone who succeeded takes 12 psychic damage...
+...and that is his Legendary Action... depending on all the saves he will still take his actions
+Basically_A_Chicken — Today at 7:16 PM
+!roll 1d20 +1
+Avrae
+BOT
+ — Today at 7:16 PM
+@Basically_A_Chicken  :game_die:
+Result: 1d20 (5) + 1
+Total: 6
+Basically_A_Chicken — Today at 7:16 PM
+Shnuggles!!!!🥲
+Ky — Today at 7:17 PM
+Tova is down
+Avrae
+BOT
+ — Today at 7:26 PM
+Peridot makes a Constitution Save!
+1d20 (6) + 2 = 8
+Image
+
+Rolled in Play By Post
+Jarrod — Today at 7:26 PM
+fuck
+Avrae
+BOT
+ — Today at 7:28 PM
+Nero Ebérloch makes a Constitution Save!
+1d20 (4) + 5 = 9
+Image
+
+Rolled in Play By Post
+Turtlebaff420 — Today at 7:29 PM
+Toombz — Today at 7:32 PM
+You've gotta be kidding me..
+Turtlebaff420 — Today at 7:34 PM
+@Toombz
+Toombz — Today at 7:39 PM
+@Enyawd Nightbeard @Burger please succeed on your constitution saving throws because if you don't, things look very bleak.. All the best 
+Avrae
+BOT
+ — Today at 7:41 PM
+Pizza makes a Constitution check!
+1d20 (9) + 2 = 11
+Image
+
+Rolled in Play By Post
+Pizza makes a Constitution check!
+1d20 (2) + 2 = 4
+Image
+
+Rolled in Play By Post
+Pizza makes a Constitution check!
+1d20 (17) + 2 = 19
+Image
+
+Rolled in Play By Post
+Deformiter (Arden) — Today at 7:41 PM
+lol
+Burger — Today at 7:41 PM
+I clicked ones
+I'm restarting my phone
+Brb
+Avrae
+BOT
+ — Today at 7:42 PM
+Pizza makes a Constitution check!
+1d20 (4) + 2 = 6
+Image
+
+Rolled in Play By Post
+Burger — Today at 7:43 PM
+There we go
+Oh well
+Toombz — Today at 7:43 PM
+Don't stress... @Setto Kaiba was only gonna take the first throw anyways🤣🤣
+Turtlebaff420 — Today at 7:47 PM
+@Toombz
+Setto Kaiba — Today at 7:48 PM
+I believe we only need Enyawd...Who is down?
+Turtlebaff420 — Today at 7:48 PM
+Just you and big boy now @Toombz
+Jarrod — Today at 7:49 PM
+Peridot is
+Toombz — Today at 7:49 PM
+Actually no.. This is where I start getting serious. I've been on easy mode and now it's time to get desperate
+Turtlebaff420 — Today at 7:50 PM
+Basically everyone except mucho man and  al'lun 
+Toombz — Today at 7:50 PM
+The only reason he hit me last time is because he got a natural 20. Let's see if he can do it again
+Deformiter (Arden) — Today at 7:50 PM
+I'm also up still...
+Toombz — Today at 7:51 PM
+It's easier to count who is up. Dumbledick, Arden and Ae'lun are up. Only @Enyawd Nightbeard left to make his constitution save
